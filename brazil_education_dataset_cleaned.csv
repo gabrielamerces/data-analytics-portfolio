@@ -1,0 +1,672 @@
+student_id,student_name,age,grade_level,gender,school_id,school_name,state,city,school_type,attendance_rate,enrollment_year,dropout_risk_score,internet_access_at_home,special_needs
+S00001,Heloísa Freitas,16,11,Male,SC173,da Rosa Mendes S/A Escola,Bahia,Vit�ria da Conquista,Private,91.9,2019,0.46,FALSE,FALSE
+S00002,João Miguel Castro,18,1,Male,SC941,Monteiro Escola,Paraná,Curitiba,Private,78,2019,0.91,FALSE,FALSE
+S00003,Emanuella Barbosa,7,5,Male,SC352,Teixeira Escola,Rio de Janeiro,Niterói,Private,92.4,2021,0.9,FALSE,FALSE
+S00004,João Miguel Cardoso,6,1,Male,SC256,Moreira Escola,Bahia,Vit�ria da Conquista,Private,82.7,2018,0.38,FALSE,FALSE
+S00005,Caroline Campos,15,9,Female,SC887,Dias Ltda. Escola,Paraná,Curitiba,Public,83,2021,0,FALSE,FALSE
+S00006,Enzo Castro,18,11,Female,SC961,Freitas Escola,Bahia,Vit�ria da Conquista,Public,74.6,2024,0.16,TRUE,FALSE
+S00007,Maysa Moreira,10,5,Male,SC159,Moura Moraes S.A. Escola,Rio de Janeiro,Rio de Janeiro,Public,72.4,2023,0.49,TRUE,FALSE
+S00008,Emanuelly Cardoso,15,8,Male,SC269,Teixeira Farias S.A. Escola,Paraná,Curitiba,Public,82.7,2019,0.93,TRUE,FALSE
+S00009,Isis Fogaça,12,9,Female,SC223,Martins Caldeira S.A. Escola,Rio de Janeiro,Petrópolis,Private,70.6,2022,0.23,TRUE,TRUE
+S00010,Ian Nunes,5,6,Male,SC626,Campos Escola,São Paulo,São Paulo,Public,76.4,2019,0.72,FALSE,FALSE
+S00013,Dra. Lara Nunes,15,9,Male,SC195,das Neves Escola,Paraná,Curitiba,Public,75,2021,0.48,FALSE,FALSE
+S00014,Luiz Gustavo Sales,11,5,Female,SC392,Barros S/A Escola,Bahia,Feira de Santana,Public,99.9,2022,0.66,FALSE,FALSE
+S00016,Isis Rezende,6,10,Male,SC791,Vieira Escola,Paraná,Curitiba,Public,98.2,2022,0.25,TRUE,FALSE
+S00018,Gustavo Pinto,14,10,Male,SC175,Ramos Almeida e Filhos Escola,São Paulo,São Paulo,Private,74,2020,0.88,TRUE,FALSE
+S00021,Agatha Martins,18,5,Male,SC103,Aragão Escola,São Paulo,São Paulo,Private,99.4,2019,0.74,FALSE,FALSE
+S00022,João Guilherme Lima,13,1,Female,SC696,Caldeira Duarte - EI Escola,São Paulo,São Paulo,Public,71.3,2020,0.9,TRUE,FALSE
+S00023,Bruno Rodrigues,15,2,Female,SC898,Teixeira S.A. Escola,Bahia,Vit�ria da Conquista,Public,99.2,2023,0.15,TRUE,FALSE
+S00024,Rafael Ribeiro,7,12,Female,SC901,Ferreira Souza - EI Escola,Bahia,Feira de Santana,Public,95.9,2024,0.25,TRUE,FALSE
+S00025,Clara Viana,18,8,Male,SC304,Lima Nunes e Filhos Escola,São Paulo,Campinas,Public,79.2,2024,0.87,TRUE,TRUE
+S00026,Isadora Pires,9,2,Female,SC459,Costa Escola,Bahia,Feira de Santana,Private,99.4,2022,0.33,TRUE,FALSE
+S00028,Maria Clara Dias,10,7,Male,SC780,Almeida Cardoso e Filhos Escola,Rio de Janeiro,Rio de Janeiro,Public,89.9,2018,0.72,FALSE,FALSE
+S00032,Júlia da Mota,12,7,Male,SC251,Castro e Filhos Escola,Paraná,Curitiba,Private,92.5,2024,0.89,FALSE,FALSE
+S00033,Isabella Pereira,13,4,Male,SC567,Rezende Escola,Paraná,Londrina,Public,85.9,2022,0.6,FALSE,FALSE
+S00034,Srta. Nicole Castro,7,12,Female,SC560,Nunes e Filhos Escola,Paraná,Londrina,Private,89.1,2024,0.78,FALSE,FALSE
+S00035,Sr. Felipe da Mota,16,5,Male,SC378,Teixeira Porto S.A. Escola,Minas Gerais,Uberlândia,Public,72.4,2019,0.23,TRUE,FALSE
+S00036,Carolina Freitas,10,9,Female,SC525,Farias Escola,São Paulo,Campinas,Private,81.7,2024,0.58,TRUE,FALSE
+S00037,Leonardo Vieira,5,6,Female,SC871,Barros e Filhos Escola,Paraná,Londrina,Private,95.1,2022,0.75,TRUE,FALSE
+S00038,Alana Carvalho,5,7,Female,SC784,da Cunha Oliveira - ME Escola,Minas Gerais,Uberlândia,Private,75,2021,0.92,TRUE,FALSE
+S00039,Clara Nunes,6,11,Female,SC238,da Cunha - ME Escola,Paraná,Maringá,Public,77.8,2020,0.21,FALSE,FALSE
+S00040,João Pedro Ferreira,9,2,Female,SC119,Gomes Escola,Rio de Janeiro,Niterói,Private,98.6,2019,0.65,TRUE,FALSE
+S00041,Pietra Rodrigues,14,3,Male,SC229,da Mota Gonçalves S.A. Escola,Bahia,Salvador,Public,98.4,2021,0.7,FALSE,FALSE
+S00042,Nathan Viana,17,3,Female,SC210,Lopes S/A Escola,Paraná,Maringá,Public,87.3,2021,0.4,TRUE,FALSE
+S00044,Bernardo Campos,18,8,Male,SC543,Nunes Costa - EI Escola,Minas Gerais,Belo Horizonte,Private,94.9,2023,0.15,TRUE,FALSE
+S00046,Maria Fernanda Silveira,10,1,Female,SC971,Ferreira Escola,Rio de Janeiro,Petrópolis,Private,80.6,2020,0.34,FALSE,FALSE
+S00047,Raul Lopes,8,12,Female,SC600,Ferreira Novaes S.A. Escola,Paraná,Curitiba,Public,84.3,2023,0.49,TRUE,FALSE
+S00050,Luiz Fernando Ferreira,6,4,Female,SC332,Monteiro Campos S.A. Escola,Minas Gerais,Contagem,Private,91.2,2019,0.27,TRUE,FALSE
+S00053,Francisco Correia,17,9,Female,SC561,Vieira S.A. Escola,Rio de Janeiro,Petrópolis,Public,87.7,2021,0.31,TRUE,FALSE
+S00054,Gustavo Henrique da Rocha,9,11,Male,SC260,da Rocha Escola,São Paulo,São Paulo,Public,74.7,2021,0.45,FALSE,FALSE
+S00055,Maysa Ferreira,16,8,Male,SC803,Fernandes Escola,Bahia,Feira de Santana,Private,93.7,2022,0.66,TRUE,FALSE
+S00056,Bryan Pereira,9,3,Male,SC161,Barbosa Escola,Paraná,Curitiba,Public,92.5,2022,0.92,FALSE,FALSE
+S00058,Sra. Maria Clara Pereira,17,11,Female,SC690,Correia S/A Escola,Bahia,Vit�ria da Conquista,Public,84.1,2023,0.44,FALSE,FALSE
+S00059,Srta. Maria Cecília Azevedo,6,8,Female,SC518,Vieira Escola,Paraná,Londrina,Private,95.7,2020,0.41,FALSE,FALSE
+S00060,Leandro Costela,12,2,Female,SC358,Lima Ltda. Escola,Rio de Janeiro,Petrópolis,Public,82.1,2022,0.82,TRUE,FALSE
+S00063,Davi Melo,15,3,Female,SC833,Farias Escola,São Paulo,Campinas,Public,82.5,2021,0.98,TRUE,FALSE
+S00066,Enzo das Neves,14,7,Male,SC976,da Mota - ME Escola,Minas Gerais,Belo Horizonte,Public,92.3,2023,0.91,FALSE,FALSE
+S00068,Nicole Teixeira,6,8,Female,SC446,Araújo Escola,Rio de Janeiro,Petrópolis,Public,72.4,2020,0.85,FALSE,FALSE
+S00069,Francisco da Luz,14,2,Male,SC746,Azevedo Escola,Rio de Janeiro,Petrópolis,Public,76.8,2018,0.43,TRUE,FALSE
+S00070,Noah Pinto,16,5,Male,SC147,Lopes Escola,São Paulo,Campinas,Public,80.8,2021,0.15,FALSE,FALSE
+S00071,Maria Silva,6,10,Female,SC734,Nogueira - EI Escola,Bahia,Salvador,Public,87.5,2019,0.46,FALSE,FALSE
+S00072,Fernando Barbosa,15,9,Male,SC175,Almeida Escola,São Paulo,Campinas,Private,87.6,2023,0.96,FALSE,FALSE
+S00073,Maria Alice da Paz,18,8,Male,SC342,Pinto Escola,Minas Gerais,Belo Horizonte,Private,78.9,2023,0.3,FALSE,FALSE
+S00074,Raul Melo,14,12,Female,SC952,Costa Escola,Paraná,Maringá,Public,94,2022,0.8,TRUE,FALSE
+S00076,Pietra Gonçalves,7,4,Male,SC905,da Mota Peixoto e Filhos Escola,Minas Gerais,Contagem,Private,85.9,2020,0.83,FALSE,FALSE
+S00077,Nicole da Luz,17,2,Female,SC177,Nunes Escola,Rio de Janeiro,Niterói,Private,95.8,2023,0.67,FALSE,FALSE
+S00078,Agatha Jesus,17,7,Male,SC370,da Rocha Escola,Paraná,Londrina,Public,90.2,2023,0.26,FALSE,FALSE
+S00080,Nicole da Rosa,5,5,Female,SC218,da Cunha Escola,São Paulo,São Paulo,Public,74.1,2021,0.37,FALSE,FALSE
+S00082,Renan Lima,13,11,Female,SC162,da Paz da Conceição S/A Escola,São Paulo,Santos,Private,73.7,2024,0.82,TRUE,FALSE
+S00083,Felipe Ribeiro,17,6,Male,SC228,Ramos - ME Escola,Paraná,Curitiba,Public,94.9,2022,0.21,TRUE,FALSE
+S00084,Maria Julia da Mota,17,10,Male,SC383,Sales Escola,Bahia,Feira de Santana,Public,73.9,2020,0.8,TRUE,FALSE
+S00086,Davi Silveira,12,9,Male,SC729,Barros Escola,Minas Gerais,Contagem,Public,96,2022,0.3,TRUE,FALSE
+S00087,Elisa Costa,15,2,Female,SC829,Cunha Escola,Rio de Janeiro,Niterói,Private,72.4,2022,0.15,TRUE,FALSE
+S00089,Rebeca Santos,18,8,Female,SC525,Vieira Escola,Bahia,Feira de Santana,Private,79.4,2020,0.37,TRUE,FALSE
+S00090,Bruna Ribeiro,18,2,Male,SC542,Ferreira Escola,Rio de Janeiro,Rio de Janeiro,Public,94.4,2022,0.06,FALSE,FALSE
+S00091,Pedro Miguel Freitas,18,12,Male,SC394,Duarte Escola,Rio de Janeiro,Niterói,Private,87.3,2019,0.15,FALSE,FALSE
+S00093,Isaac Lopes,9,12,Female,SC447,Cunha S.A. Escola,Minas Gerais,Belo Horizonte,Public,74.3,2023,0.4,TRUE,FALSE
+S00094,João Pedro da Costa,11,7,Female,SC449,Campos Peixoto - ME Escola,São Paulo,São Paulo,Public,79.7,2022,0.6,TRUE,FALSE
+S00096,Srta. Sophie Nascimento,13,11,Female,SC146,Almeida Escola,Minas Gerais,Contagem,Private,71.6,2019,0.3,TRUE,FALSE
+S00097,Dr. Vitor Gabriel Nogueira,6,1,Female,SC864,Teixeira Escola,Minas Gerais,Uberlândia,Private,86,2019,0.5,FALSE,FALSE
+S00098,Dra. Maria Cecília das Neves,12,2,Female,SC689,das Neves Escola,São Paulo,Campinas,Public,89.2,2020,0.12,TRUE,FALSE
+S00099,Leandro Rodrigues,18,12,Female,SC190,Nogueira Ltda. Escola,Bahia,Vit�ria da Conquista,Private,83.1,2021,0.52,FALSE,FALSE
+S00100,Nicole Nunes,17,3,Male,SC622,Rezende Costela - EI Escola,Minas Gerais,Belo Horizonte,Private,75.8,2024,0.35,TRUE,FALSE
+S00101,Alice Novaes,7,10,Male,SC878,Cardoso e Filhos Escola,Bahia,Feira de Santana,Public,98.5,2023,0.49,FALSE,FALSE
+S00102,Beatriz Rezende,18,11,Female,SC254,Barros Ferreira - ME Escola,Paraná,Maringá,Private,88.9,2024,0.27,TRUE,FALSE
+S00103,Sr. Lorenzo Martins,12,1,Male,SC477,Nascimento Escola,São Paulo,Campinas,Private,95.9,2024,0.09,FALSE,FALSE
+S00108,Miguel da Rosa,15,11,Female,SC620,Fernandes Escola,Minas Gerais,Belo Horizonte,Public,75.4,2019,0.34,FALSE,FALSE
+S00111,Nicolas Farias,8,9,Male,SC416,Jesus e Filhos Escola,Paraná,Londrina,Private,97.1,2019,0.37,FALSE,FALSE
+S00113,Mirella Moura,6,3,Female,SC560,Santos e Filhos Escola,Paraná,Curitiba,Private,83.1,2019,0.82,FALSE,FALSE
+S00114,Sr. Kaique Rodrigues,13,6,Male,SC495,Pinto Ltda. Escola,Rio de Janeiro,Rio de Janeiro,Private,70.8,2018,0.84,FALSE,FALSE
+S00116,Dra. Milena Fogaça,6,5,Male,SC408,Rezende Escola,Bahia,Vit�ria da Conquista,Private,89.2,2022,0.46,TRUE,FALSE
+S00119,Luiz Felipe Martins,10,2,Female,SC346,Rodrigues da Rosa Ltda. Escola,Minas Gerais,Contagem,Public,93.1,2023,0.76,TRUE,TRUE
+S00120,Joaquim Freitas,18,11,Female,SC812,Alves Escola,Paraná,Londrina,Public,74,2023,0.78,FALSE,TRUE
+S00121,Caroline Cardoso,5,6,Female,SC627,Oliveira Rodrigues - EI Escola,Bahia,Salvador,Public,84.2,2018,0.75,TRUE,FALSE
+S00122,Ryan Ribeiro,9,2,Female,SC547,Porto Escola,São Paulo,Santos,Private,96.8,2021,0.34,TRUE,FALSE
+S00124,Maria Luiza Moura,14,12,Female,SC270,Vieira Escola,Minas Gerais,Uberlândia,Private,71.3,2024,0.91,FALSE,FALSE
+S00127,Thiago da Mota,10,11,Female,SC355,Costa Escola,Paraná,Londrina,Private,75.6,2022,0.39,TRUE,FALSE
+S00128,Dra. Sophie da Mata,8,10,Female,SC810,da Rosa Rocha Ltda. Escola,Minas Gerais,Contagem,Private,73.7,2024,0.07,TRUE,FALSE
+S00130,Gustavo Dias,8,3,Male,SC909,da Luz Escola,Paraná,Curitiba,Public,87.2,2021,0.8,TRUE,FALSE
+S00133,Murilo Gomes,10,12,Male,SC454,Rocha Escola,Minas Gerais,Belo Horizonte,Public,78.5,2018,0.25,FALSE,FALSE
+S00134,Heloísa da Mata,13,11,Male,SC706,Fernandes - ME Escola,Minas Gerais,Contagem,Public,89.8,2023,0.9,FALSE,FALSE
+S00137,Cauã Peixoto,18,12,Female,SC851,Silveira Nascimento - ME Escola,Paraná,Curitiba,Private,82,2024,0.37,TRUE,FALSE
+S00138,Fernanda Pereira,12,4,Male,SC199,Caldeira Escola,Rio de Janeiro,Rio de Janeiro,Private,95.9,2021,0.25,TRUE,FALSE
+S00139,Sarah Castro,8,3,Female,SC627,da Rosa Ferreira e Filhos Escola,Paraná,Maringá,Private,84.9,2018,0.95,FALSE,FALSE
+S00140,Davi Lucca Duarte,5,1,Female,SC606,Vieira Cardoso S.A. Escola,Bahia,Vit�ria da Conquista,Private,90.2,2020,0.54,TRUE,FALSE
+S00141,Juan Porto,17,7,Female,SC146,Gonçalves Escola,Minas Gerais,Contagem,Private,75.8,2022,0.29,FALSE,FALSE
+S00142,Enzo Gomes,7,2,Female,SC482,Ramos Escola,Paraná,Londrina,Public,98.2,2024,0.14,FALSE,FALSE
+S00143,Rodrigo Dias,16,6,Female,SC631,da Paz Escola,São Paulo,São Paulo,Public,85.5,2020,0.93,FALSE,FALSE
+S00149,Eloah Araújo,13,5,Male,SC404,Dias e Filhos Escola,Bahia,Salvador,Private,90.7,2021,0.32,FALSE,FALSE
+S00153,Isabel Oliveira,15,8,Female,SC766,Martins Escola,Paraná,Curitiba,Private,79.6,2023,0.06,TRUE,FALSE
+S00154,Ana Lívia da Cruz,7,7,Male,SC137,Oliveira Escola,Bahia,Vit�ria da Conquista,Public,84.9,2023,0.96,FALSE,FALSE
+S00155,Sra. Esther Nunes,10,5,Female,SC756,Ramos S/A Escola,São Paulo,Campinas,Public,98.2,2024,0.5,FALSE,FALSE
+S00161,Yasmin Duarte,14,9,Male,SC268,Lima Vieira S/A Escola,São Paulo,São Paulo,Public,73.5,2019,0.72,FALSE,FALSE
+S00163,Brenda Sales,14,2,Male,SC533,Silva Escola,São Paulo,Santos,Public,99.8,2018,0.99,FALSE,TRUE
+S00166,Maitê Cunha,18,4,Male,SC571,Freitas - ME Escola,Paraná,Londrina,Private,98.1,2023,0.77,TRUE,FALSE
+S00167,Dr. Alexandre Gomes,8,4,Male,SC203,Rodrigues Escola,Rio de Janeiro,Petrópolis,Public,90.2,2024,0.05,TRUE,FALSE
+S00168,Levi Teixeira,17,1,Male,SC615,Monteiro Escola,Bahia,Vit�ria da Conquista,Public,97.5,2022,0.32,FALSE,FALSE
+S00169,Dr. Lorenzo Martins,11,5,Female,SC162,Duarte Nogueira S.A. Escola,Bahia,Vit�ria da Conquista,Public,92.1,2019,0.63,FALSE,FALSE
+S00170,Amanda Lopes,17,9,Female,SC813,Nascimento Escola,São Paulo,Campinas,Private,81.3,2024,0.54,TRUE,FALSE
+S00171,Mirella da Costa,17,8,Male,SC675,Azevedo Escola,Minas Gerais,Contagem,Public,85.9,2021,0.24,TRUE,FALSE
+S00173,Laís Alves,12,4,Female,SC410,Oliveira da Costa S/A Escola,Paraná,Maringá,Public,98.1,2023,0.12,FALSE,FALSE
+S00175,Ana Júlia Melo,17,12,Female,SC879,Lopes Escola,Rio de Janeiro,Niterói,Public,81.1,2021,0.05,TRUE,FALSE
+S00176,Raquel Rodrigues,9,3,Male,SC437,Campos S.A. Escola,São Paulo,Campinas,Private,77.4,2022,0.65,FALSE,FALSE
+S00178,Rafaela Castro,17,1,Female,SC240,da Cunha Escola,São Paulo,Santos,Public,91.2,2018,0.22,FALSE,FALSE
+S00179,Sra. Alice Barbosa,15,8,Male,SC106,Caldeira Escola,Paraná,Maringá,Private,70.5,2023,0.27,FALSE,TRUE
+S00180,João Gabriel Moura,6,9,Male,SC346,da Conceição Escola,Rio de Janeiro,Rio de Janeiro,Public,94.5,2020,0.79,TRUE,FALSE
+S00181,Luiz Miguel Oliveira,16,4,Female,SC800,da Cunha da Luz S/A Escola,Rio de Janeiro,Niterói,Public,99.8,2023,0.76,TRUE,FALSE
+S00182,Isis Duarte,5,11,Male,SC819,da Conceição Escola,Rio de Janeiro,Petrópolis,Private,83,2024,0.33,TRUE,FALSE
+S00185,Breno Pires,17,12,Male,SC909,Jesus Escola,Paraná,Londrina,Private,85,2020,0.05,FALSE,FALSE
+S00186,Lara Fernandes,17,6,Male,SC749,Jesus Escola,São Paulo,Campinas,Private,84.7,2020,0.55,FALSE,FALSE
+S00187,João Pedro Rocha,6,10,Female,SC917,Duarte - ME Escola,Paraná,Maringá,Private,78,2021,0.71,TRUE,FALSE
+S00188,Isabella Gonçalves,6,1,Female,SC555,Aragão Escola,Minas Gerais,Uberlândia,Public,74,2019,0.43,FALSE,FALSE
+S00189,Julia Freitas,14,10,Female,SC984,Barros - EI Escola,São Paulo,Campinas,Public,81.6,2018,0.72,TRUE,FALSE
+S00190,Sra. Esther Dias,7,3,Female,SC408,das Neves Escola,Bahia,Vit�ria da Conquista,Private,75,2020,0.42,FALSE,FALSE
+S00191,Caroline Fernandes,16,11,Female,SC708,Castro Barbosa Ltda. Escola,Minas Gerais,Uberlândia,Public,74.1,2018,0.95,FALSE,FALSE
+S00193,Sra. Camila da Paz,14,4,Female,SC485,Viana Moreira - EI Escola,Minas Gerais,Uberlândia,Private,81,2022,0.2,TRUE,FALSE
+S00194,Emanuelly da Cunha,16,4,Female,SC916,Rocha Escola,Paraná,Curitiba,Private,94.6,2024,0.8,FALSE,FALSE
+S00197,João Vitor Alves,5,2,Female,SC327,Teixeira Escola,Minas Gerais,Uberlândia,Public,87.4,2022,0.22,FALSE,FALSE
+S00198,Lorenzo Moura,10,1,Female,SC207,Nascimento Escola,Paraná,Maringá,Public,72.6,2024,0.94,TRUE,FALSE
+S00199,Isadora Cavalcanti,13,8,Female,SC587,Ribeiro Araújo - EI Escola,Minas Gerais,Uberlândia,Public,83.6,2018,0.3,TRUE,TRUE
+S00202,Heitor Sales,17,9,Male,SC474,Castro S.A. Escola,São Paulo,Santos,Public,77.9,2024,0.49,FALSE,FALSE
+S00203,Beatriz Nogueira,10,6,Female,SC732,Moura Escola,Paraná,Londrina,Public,94,2022,0.59,TRUE,FALSE
+S00205,Milena Castro,12,5,Male,SC291,Oliveira Escola,Bahia,Vit�ria da Conquista,Public,71.6,2020,0.95,FALSE,FALSE
+S00206,Arthur Moura,11,11,Female,SC525,Pires Pires S.A. Escola,Rio de Janeiro,Petrópolis,Private,75,2022,0.03,TRUE,FALSE
+S00208,Emilly da Mota,13,4,Female,SC204,Ramos S/A Escola,São Paulo,Santos,Private,77.4,2024,1,FALSE,FALSE
+S00209,Clara Aragão,17,4,Male,SC930,Melo S.A. Escola,São Paulo,Campinas,Public,95.8,2022,0.63,TRUE,FALSE
+S00211,Clara Dias,7,7,Male,SC383,da Conceição Escola,Paraná,Maringá,Public,96,2019,0.15,FALSE,FALSE
+S00212,Agatha Freitas,14,11,Female,SC742,Costela Viana Ltda. Escola,Rio de Janeiro,Niterói,Public,89,2024,0.09,FALSE,FALSE
+S00213,Carlos Eduardo Araújo,10,10,Male,SC989,Alves Moraes S.A. Escola,Minas Gerais,Uberlândia,Private,91.9,2021,0.63,FALSE,FALSE
+S00214,Giovanna Aragão,11,4,Female,SC374,Ferreira Barros S.A. Escola,Paraná,Londrina,Public,86.4,2019,0.57,FALSE,FALSE
+S00215,Sra. Marcela Correia,15,8,Male,SC227,Ribeiro - ME Escola,São Paulo,São Paulo,Public,83.7,2021,0.2,TRUE,FALSE
+S00216,Sr. Levi Santos,6,11,Female,SC356,Barbosa Silveira Ltda. Escola,Minas Gerais,Belo Horizonte,Private,89.5,2018,0.4,FALSE,FALSE
+S00217,Melissa Araújo,16,2,Male,SC318,Rocha - ME Escola,Bahia,Feira de Santana,Public,76.8,2023,0.45,TRUE,FALSE
+S00218,Nina Cavalcanti,12,2,Male,SC492,Pires Escola,São Paulo,Campinas,Public,73.1,2020,0.88,TRUE,FALSE
+S00220,Maysa Vieira,18,4,Male,SC202,Nascimento Escola,Paraná,Maringá,Private,91.9,2020,0.96,FALSE,FALSE
+S00222,Larissa Castro,16,7,Female,SC761,Vieira e Filhos Escola,Paraná,Maringá,Public,98.6,2021,0.39,TRUE,FALSE
+S00223,Leandro Porto,10,6,Male,SC496,Oliveira Mendes - ME Escola,Paraná,Curitiba,Public,81,2023,0.17,FALSE,FALSE
+S00224,Kamilly Castro,5,5,Male,SC140,Pereira Escola,São Paulo,São Paulo,Public,81.9,2020,0.63,FALSE,FALSE
+S00225,Dr. João Lucas da Costa,9,2,Female,SC180,Campos Escola,Rio de Janeiro,Rio de Janeiro,Public,94.2,2022,0.33,TRUE,FALSE
+S00226,Bruno Carvalho,5,4,Male,SC544,Castro Escola,Rio de Janeiro,Petrópolis,Public,71.7,2023,0.74,TRUE,FALSE
+S00227,Dra. Isadora Costela,7,8,Female,SC635,Melo e Filhos Escola,Bahia,Vit�ria da Conquista,Public,77.8,2020,0.13,FALSE,FALSE
+S00228,Juan Moraes,17,7,Female,SC636,Barros Escola,São Paulo,São Paulo,Private,87.3,2018,0.5,FALSE,FALSE
+S00229,Noah Lima,7,5,Male,SC687,Cavalcanti Escola,Paraná,Curitiba,Private,92.2,2018,0.04,TRUE,FALSE
+S00230,Lívia da Rosa,7,3,Male,SC666,Rocha das Neves S/A Escola,Rio de Janeiro,Niterói,Private,89.7,2019,0.32,FALSE,FALSE
+S00231,Dr. Carlos Eduardo Freitas,14,6,Male,SC614,Pereira Araújo - EI Escola,Minas Gerais,Uberlândia,Public,76.7,2022,0.98,FALSE,FALSE
+S00233,Sra. Heloísa Monteiro,16,9,Male,SC254,da Mata S.A. Escola,Paraná,Londrina,Public,77,2020,0.64,TRUE,FALSE
+S00235,Alice Carvalho,18,9,Female,SC817,Nascimento Peixoto - ME Escola,São Paulo,São Paulo,Public,92.4,2022,0.1,TRUE,FALSE
+S00236,Sr. João Lucas Lima,11,11,Male,SC342,Cardoso Escola,Rio de Janeiro,Rio de Janeiro,Public,97.8,2021,0.7,FALSE,FALSE
+S00238,Mirella Pereira,12,5,Male,SC192,Pires Escola,Bahia,Feira de Santana,Private,94.8,2023,0.6,TRUE,FALSE
+S00239,Emanuelly da Rosa,16,4,Female,SC505,Monteiro - ME Escola,Minas Gerais,Belo Horizonte,Public,77.8,2019,0.03,FALSE,FALSE
+S00240,Gustavo Henrique Rodrigues,6,8,Male,SC923,Barbosa Escola,Paraná,Maringá,Public,71.9,2024,0.98,TRUE,FALSE
+S00241,João Vitor Caldeira,14,10,Female,SC932,da Rocha Ltda. Escola,Rio de Janeiro,Niterói,Public,75.9,2023,0.44,TRUE,FALSE
+S00242,Vitor Cunha,12,1,Male,SC687,Gonçalves Escola,Minas Gerais,Belo Horizonte,Public,84.9,2021,0.68,TRUE,FALSE
+S00243,Sr. Alexandre Sales,12,3,Male,SC728,da Luz Escola,Bahia,Feira de Santana,Private,78.9,2021,0.88,FALSE,FALSE
+S00246,Ana Julia Lopes,17,10,Male,SC263,Nunes Escola,Rio de Janeiro,Petrópolis,Private,78,2024,0.79,TRUE,FALSE
+S00247,Dra. Kamilly Gonçalves,10,3,Male,SC342,Nunes S/A Escola,Bahia,Vit�ria da Conquista,Private,90.9,2022,0.03,FALSE,FALSE
+S00249,Ana Lívia Farias,10,12,Male,SC921,Nunes Escola,Paraná,Curitiba,Public,70.7,2022,0.7,TRUE,FALSE
+S00253,Bianca Duarte,12,3,Female,SC863,da Conceição Ltda. Escola,Paraná,Curitiba,Public,79.6,2023,0.89,TRUE,FALSE
+S00254,Davi da Costa,9,4,Male,SC809,da Luz e Filhos Escola,Minas Gerais,Uberlândia,Public,73.2,2018,0.05,FALSE,FALSE
+S00256,Leonardo Campos,5,6,Female,SC207,Pires Escola,São Paulo,São Paulo,Private,81.3,2023,0.08,TRUE,FALSE
+S00257,Fernanda Freitas,11,11,Male,SC721,Moraes - EI Escola,Paraná,Londrina,Public,73,2019,0.97,FALSE,FALSE
+S00258,Henrique Rezende,9,4,Male,SC150,Azevedo Escola,Paraná,Londrina,Private,84.7,2018,0.36,FALSE,FALSE
+S00259,João Lucas Gomes,6,1,Male,SC274,Carvalho - EI Escola,Paraná,Londrina,Public,84.2,2018,0.31,FALSE,FALSE
+S00260,Lívia Nogueira,7,6,Female,SC478,Vieira Escola,Minas Gerais,Belo Horizonte,Private,83.2,2020,0.23,FALSE,FALSE
+S00261,Srta. Lavínia da Mota,6,11,Female,SC927,Ribeiro Escola,Bahia,Vit�ria da Conquista,Public,87.7,2022,0.06,FALSE,FALSE
+S00262,Brenda Caldeira,14,4,Female,SC406,Cavalcanti Escola,Rio de Janeiro,Petrópolis,Private,91.4,2022,0.57,TRUE,FALSE
+S00263,Sr. Luiz Fernando da Luz,8,4,Male,SC143,Farias e Filhos Escola,Rio de Janeiro,Rio de Janeiro,Public,83.1,2024,0.63,FALSE,FALSE
+S00265,Júlia Mendes,6,10,Male,SC904,Melo S/A Escola,Bahia,Salvador,Public,80.3,2021,0.26,FALSE,FALSE
+S00266,Sr. Matheus Nogueira,9,7,Male,SC733,Fernandes Escola,Rio de Janeiro,Rio de Janeiro,Public,71.2,2020,0.69,TRUE,FALSE
+S00267,Dra. Maria da Costa,10,5,Female,SC387,Cardoso Escola,Minas Gerais,Uberlândia,Public,90.5,2024,0.23,FALSE,FALSE
+S00272,Dr. Diego da Rosa,18,10,Male,SC977,Rodrigues Escola,Rio de Janeiro,Rio de Janeiro,Public,76.2,2023,0.41,TRUE,FALSE
+S00274,Stella Viana,9,4,Female,SC409,Mendes - EI Escola,Rio de Janeiro,Niterói,Private,81.9,2018,0.01,FALSE,FALSE
+S00275,Noah Nascimento,9,11,Male,SC593,da Cruz da Mata e Filhos Escola,Paraná,Maringá,Private,89.2,2024,0.28,FALSE,FALSE
+S00276,Bárbara Pires,17,10,Female,SC776,Oliveira Ltda. Escola,Paraná,Curitiba,Public,70.8,2021,1,FALSE,FALSE
+S00279,Dr. Lucas Gabriel Gomes,8,6,Male,SC862,Santos Escola,Minas Gerais,Contagem,Public,96.6,2020,0.26,FALSE,FALSE
+S00281,Luana Moura,7,4,Female,SC519,Silveira S/A Escola,Rio de Janeiro,Rio de Janeiro,Public,99.6,2019,0.32,TRUE,FALSE
+S00282,Bruno da Cruz,10,11,Male,SC104,Porto Escola,Rio de Janeiro,Niterói,Public,93.2,2022,0.76,FALSE,FALSE
+S00283,Bianca Pinto,15,7,Female,SC539,das Neves - ME Escola,São Paulo,São Paulo,Private,71.1,2019,0.73,TRUE,FALSE
+S00286,Ian Castro,5,4,Male,SC844,da Conceição Escola,Bahia,Salvador,Private,70.7,2022,0.17,FALSE,FALSE
+S00288,Sra. Lavínia Almeida,12,12,Male,SC310,Aragão Ltda. Escola,Rio de Janeiro,Rio de Janeiro,Private,79,2023,0.1,FALSE,FALSE
+S00290,Erick Jesus,9,3,Male,SC661,Barros S.A. Escola,Bahia,Feira de Santana,Private,98,2020,0.23,TRUE,FALSE
+S00292,Maria Alice Aragão,18,1,Female,SC468,da Conceição Gonçalves - ME Escola,São Paulo,São Paulo,Public,92.2,2018,0.85,TRUE,TRUE
+S00293,Paulo Moraes,10,6,Female,SC736,Peixoto da Mata e Filhos Escola,Bahia,Vit�ria da Conquista,Public,81.2,2020,0.18,FALSE,FALSE
+S00294,Ana Júlia Souza,16,8,Female,SC764,Campos Escola,Rio de Janeiro,Niterói,Private,74,2023,0.06,TRUE,FALSE
+S00295,Maria Cecília Santos,7,10,Female,SC897,Nogueira - ME Escola,Paraná,Londrina,Private,90.5,2024,0.73,TRUE,FALSE
+S00296,Pedro Miguel Nogueira,12,1,Male,SC367,Fernandes Escola,Rio de Janeiro,Rio de Janeiro,Private,96,2022,0.77,TRUE,FALSE
+S00298,Dra. Marina Cavalcanti,18,8,Male,SC176,Cunha Escola,Bahia,Vit�ria da Conquista,Private,79.9,2020,0.05,TRUE,FALSE
+S00299,João Gabriel Viana,6,8,Female,SC920,da Luz Escola,Rio de Janeiro,Niterói,Public,85,2020,0.12,FALSE,FALSE
+S00301,Alícia Gonçalves,18,1,Male,SC964,Barbosa da Paz S/A Escola,Rio de Janeiro,Niterói,Private,88.6,2021,0.72,FALSE,FALSE
+S00302,Dr. Luiz Gustavo Novaes,5,6,Female,SC949,Fernandes Escola,São Paulo,São Paulo,Public,86.4,2020,0.7,TRUE,FALSE
+S00305,Dr. João Pires,18,10,Female,SC620,Mendes Escola,São Paulo,Santos,Private,90.8,2019,0.73,TRUE,FALSE
+S00306,Luiz Felipe Sales,13,7,Female,SC723,Silveira Escola,Paraná,Maringá,Private,78.2,2020,0.97,FALSE,FALSE
+S00310,Raquel Pereira,16,5,Male,SC871,Pires Monteiro - ME Escola,Minas Gerais,Belo Horizonte,Public,83.6,2022,0.87,TRUE,FALSE
+S00311,Thomas Moraes,13,12,Female,SC809,Freitas Escola,Paraná,Londrina,Public,81.6,2024,0.98,FALSE,FALSE
+S00312,Vitória Caldeira,8,10,Female,SC949,Nunes Ltda. Escola,São Paulo,São Paulo,Private,91.3,2020,0.76,TRUE,FALSE
+S00313,Yasmin da Cruz,7,11,Male,SC291,da Conceição - EI Escola,Bahia,Feira de Santana,Private,73.6,2018,0.43,FALSE,FALSE
+S00315,Yago Moreira,6,12,Female,SC638,Nogueira Escola,Paraná,Maringá,Private,72,2022,0.16,FALSE,FALSE
+S00316,Alícia da Costa,10,6,Female,SC323,Moura Escola,Bahia,Salvador,Private,84.2,2022,0.82,TRUE,FALSE
+S00318,Dr. Felipe Correia,13,9,Female,SC598,da Mata - ME Escola,Minas Gerais,Belo Horizonte,Private,75.8,2022,0.08,TRUE,FALSE
+S00319,Joana Costa,15,2,Male,SC786,Ferreira Escola,Paraná,Maringá,Public,90.6,2024,0.1,FALSE,FALSE
+S00321,Daniel Cardoso,15,7,Female,SC423,da Luz Escola,Rio de Janeiro,Niterói,Private,86,2023,0.72,TRUE,FALSE
+S00322,Sra. Ana Laura Lopes,10,9,Male,SC396,Campos Escola,Paraná,Curitiba,Public,72.6,2024,0.93,FALSE,FALSE
+S00323,Maria Cecília Gonçalves,13,4,Male,SC864,da Cruz Escola,São Paulo,Campinas,Public,86.4,2023,0.14,FALSE,FALSE
+S00324,Dra. Pietra da Luz,6,1,Male,SC686,Silva Escola,São Paulo,Santos,Public,98.4,2020,0.21,FALSE,FALSE
+S00326,Dr. Lucas Gabriel Vieira,9,2,Male,SC843,Carvalho Campos Ltda. Escola,São Paulo,Campinas,Public,80.7,2023,0.66,TRUE,FALSE
+S00327,Raquel Rocha,12,8,Female,SC731,Oliveira Escola,São Paulo,São Paulo,Private,74.6,2022,0.36,FALSE,FALSE
+S00329,Letícia Silveira,13,2,Male,SC761,Costela Escola,Minas Gerais,Uberlândia,Private,95.8,2019,0.89,TRUE,FALSE
+S00331,Luiz Henrique da Costa,10,7,Male,SC890,da Cunha Escola,Paraná,Londrina,Public,74,2022,0.51,FALSE,FALSE
+S00333,Bruno Fernandes,8,8,Male,SC164,Vieira Freitas S.A. Escola,Rio de Janeiro,Niterói,Public,90.1,2022,0.91,FALSE,FALSE
+S00334,Fernanda Teixeira,15,6,Male,SC820,Santos e Filhos Escola,Rio de Janeiro,Rio de Janeiro,Public,78.2,2023,0.26,TRUE,FALSE
+S00335,Nicolas da Costa,13,5,Female,SC328,Mendes Barbosa S/A Escola,Rio de Janeiro,Niterói,Public,96,2021,0.79,TRUE,FALSE
+S00337,Maria Cecília Gonçalves,12,11,Female,SC590,Rocha Escola,Rio de Janeiro,Niterói,Public,95,2018,0.24,TRUE,FALSE
+S00338,Rodrigo Nunes,14,3,Male,SC270,Ramos Escola,Bahia,Salvador,Public,98.7,2022,0.97,TRUE,FALSE
+S00339,Ryan Caldeira,12,10,Female,SC988,Pires Peixoto - ME Escola,Minas Gerais,Belo Horizonte,Public,82.3,2019,0.79,TRUE,FALSE
+S00340,Cecília Mendes,16,11,Female,SC564,Lopes Lopes e Filhos Escola,Paraná,Londrina,Public,81.3,2019,0.11,TRUE,FALSE
+S00343,Caio Barros,11,3,Female,SC588,Nogueira Escola,Rio de Janeiro,Niterói,Public,72.5,2022,0.88,FALSE,FALSE
+S00344,Kamilly Farias,14,9,Male,SC632,Martins Lopes S.A. Escola,São Paulo,Santos,Public,90.6,2020,0.41,TRUE,FALSE
+S00345,Luiz Felipe Silva,18,9,Female,SC678,Sales Escola,Paraná,Londrina,Private,90.4,2024,0.2,FALSE,FALSE
+S00347,Eduarda da Rosa,13,7,Female,SC920,Barros Escola,Bahia,Salvador,Public,91.2,2019,0.39,TRUE,FALSE
+S00348,Gustavo Henrique Sales,6,2,Female,SC327,Gomes Escola,Bahia,Feira de Santana,Private,91.7,2021,0.61,FALSE,FALSE
+S00349,Alana Cavalcanti,15,8,Female,SC110,Cunha Escola,Paraná,Curitiba,Public,94.1,2020,0.19,TRUE,FALSE
+S00350,Thomas Moreira,15,1,Male,SC188,Moreira Escola,São Paulo,Campinas,Public,80.6,2021,0.41,TRUE,FALSE
+S00353,Pedro Henrique Costa,17,4,Female,SC894,Castro Novaes Ltda. Escola,Rio de Janeiro,Petrópolis,Private,87.6,2018,0.48,FALSE,FALSE
+S00354,Dr. Vitor Gabriel da Conceição,17,6,Female,SC461,Silva Nunes - EI Escola,Bahia,Vit�ria da Conquista,Public,95,2019,0.29,FALSE,FALSE
+S00355,Augusto Azevedo,12,6,Female,SC323,Melo Ribeiro - EI Escola,Minas Gerais,Belo Horizonte,Public,98.4,2023,0.93,TRUE,FALSE
+S00356,Brenda Silva,18,5,Male,SC334,Martins Lopes S.A. Escola,Bahia,Salvador,Public,88.6,2019,0.78,TRUE,FALSE
+S00357,Mariana Jesus,17,9,Male,SC968,Santos Escola,Rio de Janeiro,Petrópolis,Public,84.8,2022,0.87,FALSE,FALSE
+S00358,Maria Alice Rodrigues,8,10,Male,SC155,Ribeiro Escola,Paraná,Londrina,Private,98.2,2018,0.5,FALSE,FALSE
+S00359,João Lucas Melo,16,9,Female,SC423,Peixoto - EI Escola,Bahia,Feira de Santana,Public,76.3,2022,0.1,FALSE,FALSE
+S00360,Thiago Araújo,8,5,Female,SC727,Ferreira Escola,Minas Gerais,Belo Horizonte,Private,82.7,2021,0.7,FALSE,FALSE
+S00361,Valentina Dias,7,10,Male,SC689,Rocha S.A. Escola,Rio de Janeiro,Niterói,Private,91.6,2024,0.24,FALSE,FALSE
+S00362,Marina Nascimento,12,1,Male,SC531,Farias Azevedo - EI Escola,Bahia,Salvador,Public,95.5,2022,0.53,FALSE,FALSE
+S00364,Brenda Oliveira,10,1,Female,SC224,Oliveira Santos - EI Escola,Minas Gerais,Contagem,Private,88.2,2022,0.58,TRUE,FALSE
+S00365,Sarah Caldeira,15,9,Female,SC893,Silveira da Rocha - EI Escola,Minas Gerais,Uberlândia,Private,81.4,2020,0.46,TRUE,FALSE
+S00366,Dr. Luiz Miguel Nascimento,18,2,Male,SC265,da Luz Escola,Minas Gerais,Uberlândia,Private,89.6,2023,0.27,FALSE,FALSE
+S00367,Maria Alice Mendes,11,3,Male,SC974,Ferreira Escola,Rio de Janeiro,Niterói,Private,89.9,2023,0.7,TRUE,FALSE
+S00369,Vitor Gomes,8,12,Female,SC553,Rodrigues Lopes - ME Escola,Rio de Janeiro,Niterói,Public,95.2,2018,0.04,FALSE,FALSE
+S00370,Dr. Gustavo Henrique Costa,18,9,Female,SC661,Novaes Escola,Minas Gerais,Uberlândia,Private,90.9,2019,0.59,FALSE,FALSE
+S00372,Dr. Pietro Fernandes,12,9,Male,SC804,da Rosa Escola,Bahia,Feira de Santana,Private,84.3,2018,0.77,FALSE,FALSE
+S00375,Daniela Barros,14,8,Female,SC817,Oliveira Ltda. Escola,Minas Gerais,Belo Horizonte,Private,70.6,2018,0.97,TRUE,FALSE
+S00376,Sra. Ana Luiza Cunha,7,12,Female,SC844,Vieira S.A. Escola,São Paulo,Campinas,Private,70.4,2019,0.34,FALSE,FALSE
+S00377,Milena Ribeiro,16,1,Female,SC182,da Paz Escola,Rio de Janeiro,Niterói,Private,71.7,2024,0.39,FALSE,FALSE
+S00378,Igor Gomes,6,12,Male,SC494,Carvalho e Filhos Escola,Minas Gerais,Uberlândia,Public,92.1,2018,0.2,TRUE,FALSE
+S00379,Daniela Teixeira,15,5,Female,SC262,da Luz - ME Escola,Bahia,Feira de Santana,Private,98.1,2022,0.12,FALSE,FALSE
+S00380,Arthur Novaes,18,11,Male,SC215,da Mata Escola,Bahia,Feira de Santana,Public,70.5,2024,0.28,TRUE,FALSE
+S00381,Sra. Alícia Alves,14,12,Female,SC804,Cavalcanti Escola,Bahia,Salvador,Public,72.7,2019,0.5,FALSE,FALSE
+S00383,Letícia Fogaça,5,12,Female,SC466,Correia Melo S.A. Escola,Rio de Janeiro,Petrópolis,Public,71.2,2023,0.44,FALSE,FALSE
+S00384,Sra. Melissa Fernandes,13,6,Female,SC849,Alves Mendes Ltda. Escola,Rio de Janeiro,Rio de Janeiro,Public,88,2024,0.55,TRUE,FALSE
+S00385,Nicole da Mota,13,6,Female,SC100,Nunes Pereira - EI Escola,Rio de Janeiro,Niterói,Private,92,2018,0.62,FALSE,FALSE
+S00386,Sr. João Castro,15,9,Female,SC294,Cunha Rocha Ltda. Escola,Bahia,Feira de Santana,Public,86.5,2022,0.28,FALSE,FALSE
+S00387,Alexandre Ferreira,5,3,Male,SC994,Duarte Escola,São Paulo,São Paulo,Public,75.7,2018,0.57,FALSE,FALSE
+S00388,Sophia Fogaça,5,6,Male,SC720,Jesus Escola,Paraná,Maringá,Private,97.6,2023,0.49,TRUE,FALSE
+S00391,João Santos,16,11,Female,SC206,Costa Escola,Paraná,Londrina,Private,82,2020,0.66,FALSE,FALSE
+S00392,Evelyn Moura,18,6,Female,SC882,das Neves Cunha - ME Escola,Minas Gerais,Contagem,Private,79.7,2019,0.56,TRUE,FALSE
+S00393,Lorenzo Moura,10,8,Female,SC506,Vieira Escola,Paraná,Maringá,Private,78.5,2018,0.52,FALSE,TRUE
+S00394,Sophia Teixeira,5,12,Female,SC666,Farias Cardoso - EI Escola,Bahia,Salvador,Private,87.1,2018,0.04,FALSE,FALSE
+S00395,Marcela Moreira,8,5,Female,SC194,Correia S/A Escola,Minas Gerais,Uberlândia,Public,76.5,2018,0.72,FALSE,FALSE
+S00397,Ana Sophia da Rocha,15,11,Female,SC155,Carvalho Escola,São Paulo,São Paulo,Public,86.2,2019,0.33,TRUE,FALSE
+S00398,Lavínia Caldeira,8,7,Female,SC905,Costela Escola,Rio de Janeiro,Niterói,Public,72.5,2022,0.75,FALSE,FALSE
+S00399,Kamilly Ramos,17,12,Male,SC880,Rezende e Filhos Escola,Rio de Janeiro,Petrópolis,Private,84.6,2023,0.57,TRUE,FALSE
+S00400,Thiago Aragão,15,10,Male,SC215,Fernandes Escola,Minas Gerais,Uberlândia,Private,80.4,2020,0.34,TRUE,FALSE
+S00401,Vinicius da Rosa,14,3,Female,SC145,Barbosa - ME Escola,Bahia,Feira de Santana,Private,90.6,2019,0.76,TRUE,FALSE
+S00402,Sr. Marcelo Caldeira,18,5,Male,SC451,Ribeiro S/A Escola,São Paulo,São Paulo,Public,83.5,2018,0.33,TRUE,FALSE
+S00403,Juan da Mata,14,12,Male,SC811,Peixoto Moura - ME Escola,Paraná,Londrina,Private,87.5,2023,0.53,FALSE,FALSE
+S00405,Isabel Costa,13,12,Male,SC423,Teixeira Novaes - EI Escola,Rio de Janeiro,Rio de Janeiro,Private,72.6,2019,0.5,FALSE,FALSE
+S00406,Thomas das Neves,13,5,Female,SC601,Aragão Ltda. Escola,São Paulo,São Paulo,Public,80.4,2020,0.36,FALSE,FALSE
+S00407,Nicole Viana,15,5,Female,SC934,Teixeira Escola,Paraná,Londrina,Public,98.5,2019,0.15,FALSE,FALSE
+S00409,Guilherme da Mota,8,11,Male,SC694,Azevedo e Filhos Escola,Minas Gerais,Uberlândia,Public,95.9,2020,0.69,TRUE,FALSE
+S00412,João Pires,8,11,Male,SC467,Viana da Rosa S/A Escola,Paraná,Curitiba,Public,74,2024,0.6,FALSE,FALSE
+S00413,Luiz Fernando Gonçalves,7,3,Male,SC331,Lopes Martins S.A. Escola,Rio de Janeiro,Niterói,Private,70.5,2020,0.95,TRUE,FALSE
+S00418,Lorena Duarte,11,7,Female,SC561,Jesus da Conceição - ME Escola,Paraná,Maringá,Public,96.9,2019,0.88,TRUE,FALSE
+S00421,Sr. Levi Moura,6,3,Male,SC103,Teixeira e Filhos Escola,Rio de Janeiro,Niterói,Public,83.8,2024,0.5,TRUE,FALSE
+S00422,Benjamin Fogaça,14,11,Female,SC564,Barbosa Escola,Rio de Janeiro,Rio de Janeiro,Public,88,2019,0.88,FALSE,FALSE
+S00423,Diogo da Rosa,7,3,Male,SC768,da Rocha Escola,Paraná,Curitiba,Public,71,2022,0.84,FALSE,FALSE
+S00424,Dr. André da Rosa,11,3,Male,SC788,Costa Rocha S.A. Escola,São Paulo,São Paulo,Public,91,2022,0.79,TRUE,FALSE
+S00425,Dra. Rafaela da Rocha,6,5,Female,SC477,Duarte Escola,Paraná,Londrina,Public,92.8,2024,0.55,FALSE,FALSE
+S00426,Giovanna Gomes,10,9,Female,SC637,Rezende Escola,São Paulo,Santos,Private,71.7,2022,0.73,TRUE,FALSE
+S00427,Milena Moraes,11,10,Female,SC365,Ferreira Escola,Paraná,Maringá,Private,80.6,2019,0.61,FALSE,FALSE
+S00430,Clarice da Conceição,17,1,Male,SC802,Ferreira - EI Escola,Paraná,Maringá,Private,87.1,2018,0.83,TRUE,FALSE
+S00432,Isaac Dias,18,9,Female,SC678,Farias Escola,Rio de Janeiro,Petrópolis,Public,86.1,2019,0.58,FALSE,FALSE
+S00433,Maria Clara Mendes,9,1,Female,SC484,Rodrigues Escola,Minas Gerais,Belo Horizonte,Public,87.1,2021,0.19,TRUE,FALSE
+S00434,Dra. Sarah Rodrigues,16,1,Female,SC523,da Cunha Escola,Minas Gerais,Contagem,Private,81.1,2024,0.95,TRUE,FALSE
+S00435,Sra. Bárbara Cunha,17,1,Male,SC194,da Mata Escola,Bahia,Salvador,Private,84.5,2022,0.15,FALSE,FALSE
+S00437,Vitor Hugo Almeida,10,8,Male,SC205,Cunha Escola,São Paulo,Santos,Public,79.4,2022,0.76,TRUE,FALSE
+S00438,Daniela Campos,13,6,Female,SC787,Alves da Rosa - EI Escola,Bahia,Feira de Santana,Private,78.2,2018,0.96,TRUE,FALSE
+S00440,Alexandre Teixeira,6,7,Male,SC188,Alves Escola,São Paulo,Campinas,Public,87.9,2022,0.63,FALSE,FALSE
+S00442,Pietra Pinto,12,4,Male,SC247,Cavalcanti Castro - EI Escola,Minas Gerais,Contagem,Private,97.4,2021,0.18,FALSE,FALSE
+S00443,Erick da Mota,5,2,Female,SC215,Moraes Escola,Minas Gerais,Uberlândia,Private,75.1,2024,0.35,TRUE,FALSE
+S00449,Ana Luiza Souza,6,10,Male,SC726,Dias S.A. Escola,Rio de Janeiro,Petrópolis,Private,73.8,2020,0.06,TRUE,TRUE
+S00450,Dra. Lorena Fogaça,18,5,Male,SC340,Cardoso e Filhos Escola,Paraná,Londrina,Public,88.8,2023,0.38,FALSE,FALSE
+S00451,Marcelo Azevedo,12,3,Male,SC668,Lopes Aragão S.A. Escola,Bahia,Vit�ria da Conquista,Public,95.2,2019,0.29,TRUE,FALSE
+S00452,Bianca Novaes,7,12,Female,SC773,Jesus S.A. Escola,São Paulo,Santos,Public,72.5,2023,0.81,FALSE,FALSE
+S00453,Eduarda Nogueira,12,9,Female,SC665,Nogueira Escola,Paraná,Londrina,Public,76.8,2021,0.6,FALSE,FALSE
+S00455,Leandro Dias,12,9,Male,SC635,Mendes - EI Escola,São Paulo,São Paulo,Private,84.2,2023,0.66,TRUE,FALSE
+S00456,Maria Vitória Novaes,14,1,Female,SC647,Araújo Escola,Paraná,Maringá,Private,85.4,2021,0.57,FALSE,FALSE
+S00458,Dr. Leandro da Mata,9,8,Male,SC229,Cardoso Escola,Minas Gerais,Contagem,Public,78.3,2019,0.62,FALSE,FALSE
+S00461,Sr. Bryan Almeida,5,11,Female,SC873,Pires Escola,Bahia,Salvador,Private,83.9,2021,0.3,TRUE,FALSE
+S00462,Dr. Calebe Costela,7,9,Female,SC112,da Mata - ME Escola,Rio de Janeiro,Niterói,Private,81.5,2020,0.96,TRUE,FALSE
+S00466,Dra. Elisa Silveira,6,10,Male,SC484,Nascimento da Cunha S.A. Escola,São Paulo,Santos,Public,87,2019,0.9,TRUE,FALSE
+S00467,Heitor Fogaça,15,8,Female,SC887,da Conceição Escola,Rio de Janeiro,Petrópolis,Public,93.1,2020,0.26,TRUE,FALSE
+S00468,Davi Luiz Pinto,10,1,Female,SC932,Peixoto Escola,São Paulo,Campinas,Private,84.8,2019,0.61,TRUE,FALSE
+S00470,Thiago Sales,15,11,Male,SC138,Ramos Cavalcanti S.A. Escola,São Paulo,Campinas,Public,91,2021,0.57,FALSE,FALSE
+S00471,Alexandre Novaes,13,4,Male,SC493,Nascimento Escola,Rio de Janeiro,Petrópolis,Public,84.5,2022,0.54,FALSE,FALSE
+S00472,Dr. Isaac Pinto,15,11,Male,SC474,Jesus Martins - EI Escola,Minas Gerais,Uberlândia,Public,72.4,2021,0.76,FALSE,FALSE
+S00473,Srta. Luana Lopes,11,11,Male,SC406,Novaes Lopes Ltda. Escola,Bahia,Vit�ria da Conquista,Public,88.9,2020,0.49,FALSE,FALSE
+S00476,Alice Rezende,16,3,Female,SC769,Pires Gonçalves e Filhos Escola,Bahia,Salvador,Public,88.6,2019,0.7,TRUE,TRUE
+S00477,Juan Sales,12,10,Male,SC955,Jesus Duarte Ltda. Escola,São Paulo,Campinas,Public,73.2,2021,0.59,TRUE,FALSE
+S00479,Maria Vitória Rocha,6,2,Female,SC244,Teixeira Escola,Paraná,Curitiba,Private,81.1,2019,0.44,TRUE,FALSE
+S00480,Olivia Peixoto,5,8,Male,SC106,Moreira e Filhos Escola,Paraná,Londrina,Public,91.2,2022,0.89,FALSE,FALSE
+S00482,Isabella da Cunha,10,7,Male,SC671,Nunes Ltda. Escola,Paraná,Curitiba,Private,85.9,2018,0.62,TRUE,FALSE
+S00483,Ana Lívia Alves,8,2,Male,SC801,Ferreira S.A. Escola,Bahia,Feira de Santana,Public,84.9,2019,0.67,TRUE,FALSE
+S00484,Sofia Silveira,11,5,Female,SC731,Porto Moura - ME Escola,Minas Gerais,Uberlândia,Public,71.3,2023,0.05,TRUE,FALSE
+S00486,Gustavo Peixoto,8,12,Female,SC990,Correia e Filhos Escola,Minas Gerais,Belo Horizonte,Public,72.2,2022,0.48,FALSE,FALSE
+S00487,João Felipe Lima,11,6,Male,SC568,Ramos Escola,Paraná,Londrina,Public,99.3,2019,0.34,TRUE,FALSE
+S00488,Luiz Henrique Rocha,6,8,Female,SC528,Ribeiro Escola,São Paulo,Campinas,Public,96.6,2022,0.16,TRUE,FALSE
+S00489,Leonardo Porto,11,9,Female,SC982,Campos Escola,Paraná,Curitiba,Public,95.1,2020,0.01,FALSE,FALSE
+S00490,Augusto Correia,11,10,Male,SC705,Mendes e Filhos Escola,Bahia,Salvador,Private,96.9,2021,0.98,TRUE,FALSE
+S00491,Renan da Cunha,13,7,Female,SC929,Silveira da Luz - EI Escola,Paraná,Curitiba,Private,83.6,2019,0.08,TRUE,FALSE
+S00492,Isaac Pereira,10,5,Male,SC763,Dias Escola,Rio de Janeiro,Rio de Janeiro,Public,90.1,2019,0.7,TRUE,FALSE
+S00495,Thales da Rosa,11,6,Female,SC733,Freitas Campos - EI Escola,Minas Gerais,Belo Horizonte,Public,89.4,2023,0.07,TRUE,FALSE
+S00497,Lorenzo Correia,9,1,Male,SC481,Rodrigues Escola,Minas Gerais,Contagem,Private,85.8,2018,0.47,FALSE,FALSE
+S00498,Maysa Lopes,8,8,Male,SC182,Novaes Escola,Minas Gerais,Contagem,Public,98.7,2018,0.11,FALSE,FALSE
+S00500,Camila Jesus,6,1,Male,SC954,Cunha Ltda. Escola,São Paulo,Campinas,Public,82.4,2020,0.66,FALSE,FALSE
+S00502,Srta. Maitê Nogueira,9,8,Male,SC733,Cunha Escola,São Paulo,São Paulo,Private,78.6,2019,0.84,TRUE,FALSE
+S00503,Joana Pereira,14,3,Female,SC366,Rodrigues Teixeira e Filhos Escola,São Paulo,São Paulo,Private,91.2,2023,0.32,FALSE,FALSE
+S00504,Camila da Cunha,13,5,Male,SC125,Gomes Escola,Rio de Janeiro,Petrópolis,Public,74.4,2021,0.93,TRUE,TRUE
+S00505,Diego Lopes,15,12,Female,SC585,Barros Escola,Paraná,Maringá,Private,92.6,2022,0.67,FALSE,FALSE
+S00507,Júlia Rodrigues,14,9,Male,SC900,Pires Escola,Paraná,Maringá,Public,70.7,2022,0.85,TRUE,FALSE
+S00509,Guilherme das Neves,10,6,Female,SC556,da Cunha Escola,Minas Gerais,Belo Horizonte,Private,91.8,2021,0.74,FALSE,FALSE
+S00510,Maria Fernanda Sales,16,7,Male,SC955,Correia Ltda. Escola,Minas Gerais,Belo Horizonte,Private,76.2,2021,0.99,FALSE,FALSE
+S00513,João Felipe Carvalho,11,3,Female,SC804,Costa Escola,Rio de Janeiro,Rio de Janeiro,Private,92.9,2021,0.99,TRUE,FALSE
+S00514,Emanuel Monteiro,14,7,Female,SC743,da Cunha Escola,Minas Gerais,Contagem,Private,94.5,2020,0.51,TRUE,FALSE
+S00515,Beatriz da Rocha,7,6,Female,SC999,Caldeira Monteiro - EI Escola,Bahia,Vit�ria da Conquista,Public,71.6,2020,0.42,FALSE,TRUE
+S00517,Emanuelly Silva,18,3,Male,SC240,Cunha - ME Escola,Minas Gerais,Belo Horizonte,Private,84.5,2020,0.92,TRUE,FALSE
+S00519,Sr. Vitor Hugo Novaes,5,8,Female,SC419,da Conceição Escola,São Paulo,São Paulo,Public,83.3,2022,0.52,FALSE,FALSE
+S00521,Ana Julia Carvalho,8,2,Male,SC912,Silva Escola,Rio de Janeiro,Niterói,Public,84.1,2020,0.04,FALSE,FALSE
+S00522,Sra. Olivia Moura,14,4,Male,SC786,Rodrigues Escola,São Paulo,São Paulo,Public,95.4,2020,0.95,FALSE,FALSE
+S00523,Sr. Yago Carvalho,13,10,Male,SC201,Moraes Escola,Paraná,Maringá,Public,85.9,2023,0.19,FALSE,FALSE
+S00525,Igor Gomes,11,2,Female,SC226,Vieira Escola,Rio de Janeiro,Rio de Janeiro,Public,84.9,2020,0.7,TRUE,FALSE
+S00528,Laís Almeida,6,6,Male,SC446,da Paz Escola,Paraná,Curitiba,Public,82.1,2019,0.84,FALSE,FALSE
+S00529,Srta. Milena Jesus,17,11,Female,SC464,Freitas Carvalho e Filhos Escola,Paraná,Maringá,Private,82.1,2021,0.51,TRUE,FALSE
+S00530,Dr. Bruno Moura,12,8,Male,SC743,Barros Novaes e Filhos Escola,São Paulo,São Paulo,Private,92.1,2024,0.07,TRUE,FALSE
+S00535,Lucca Cardoso,17,5,Female,SC162,Nogueira Carvalho e Filhos Escola,Rio de Janeiro,Petrópolis,Private,95.1,2020,0.81,TRUE,FALSE
+S00536,Calebe Lopes,11,6,Female,SC521,Jesus Escola,Minas Gerais,Uberlândia,Public,77.4,2023,0.31,TRUE,FALSE
+S00537,João Miguel Cunha,10,3,Male,SC651,Campos Souza - EI Escola,São Paulo,Campinas,Public,95.9,2022,0.51,FALSE,FALSE
+S00539,Srta. Marina da Costa,10,7,Male,SC608,Pires Escola,Minas Gerais,Belo Horizonte,Private,72.3,2024,0.54,FALSE,FALSE
+S00541,Gabrielly Cunha,8,6,Male,SC767,Freitas Cardoso S.A. Escola,Paraná,Londrina,Private,79,2023,0.54,TRUE,FALSE
+S00542,Maria Vitória Gomes,15,9,Male,SC119,Jesus S.A. Escola,Minas Gerais,Contagem,Private,75.6,2021,0.21,FALSE,FALSE
+S00544,Yuri Duarte,15,4,Female,SC373,Nogueira Escola,Rio de Janeiro,Niterói,Public,77.7,2022,0.24,TRUE,FALSE
+S00545,Erick Sales,17,5,Female,SC597,Souza S/A Escola,Bahia,Salvador,Public,89.4,2018,0.2,FALSE,FALSE
+S00547,Nina da Luz,11,12,Male,SC341,Cardoso Escola,Rio de Janeiro,Niterói,Public,98,2022,0.66,FALSE,FALSE
+S00548,Nicolas Campos,17,6,Female,SC952,Ferreira S.A. Escola,São Paulo,São Paulo,Public,92.5,2019,0.94,TRUE,FALSE
+S00549,Benício Novaes,12,7,Female,SC983,Santos Escola,Bahia,Salvador,Private,81.2,2018,0.32,FALSE,FALSE
+S00552,Cecília da Costa,6,4,Female,SC315,Novaes Escola,Rio de Janeiro,Niterói,Private,83.2,2020,0.88,FALSE,FALSE
+S00553,Maysa Campos,12,12,Female,SC961,Pinto Escola,Minas Gerais,Belo Horizonte,Private,97.6,2018,0.82,FALSE,FALSE
+S00554,Srta. Ana Carolina Farias,12,12,Male,SC880,Pinto S/A Escola,Minas Gerais,Uberlândia,Private,88.9,2024,0.64,TRUE,FALSE
+S00555,Mariana Caldeira,6,3,Male,SC628,da Luz Escola,Minas Gerais,Uberlândia,Public,89.5,2019,0.85,FALSE,FALSE
+S00556,Andr� Cunha,18,12,Male,SC366,da Cruz - ME Escola,Minas Gerais,Uberlândia,Private,79.8,2020,0.2,FALSE,FALSE
+S00558,Dr. Gabriel Souza,7,2,Female,SC274,Ferreira e Filhos Escola,Paraná,Londrina,Private,91.6,2021,0.77,FALSE,FALSE
+S00559,Marina Cardoso,16,4,Male,SC982,Ramos Escola,Rio de Janeiro,Rio de Janeiro,Public,92.4,2021,0.13,TRUE,FALSE
+S00560,Isabelly Caldeira,11,3,Female,SC911,da Cunha Escola,Minas Gerais,Contagem,Public,77.9,2022,0.45,TRUE,FALSE
+S00561,Sr. Fernando Cavalcanti,12,3,Female,SC809,Dias e Filhos Escola,Rio de Janeiro,Rio de Janeiro,Public,81.5,2021,0.74,FALSE,FALSE
+S00562,Agatha Barbosa,10,4,Female,SC462,Farias S/A Escola,Paraná,Curitiba,Public,99,2022,0.71,TRUE,TRUE
+S00566,Nicole Barros,7,1,Male,SC287,das Neves Silveira S/A Escola,Rio de Janeiro,Rio de Janeiro,Public,91.2,2021,0.12,FALSE,TRUE
+S00567,Ana Clara Rezende,12,8,Male,SC966,Lima Escola,Minas Gerais,Contagem,Private,80.5,2019,0.87,TRUE,FALSE
+S00572,Sr. Vitor Hugo Nascimento,17,7,Female,SC762,Cavalcanti Escola,Bahia,Salvador,Private,73.6,2021,0.8,FALSE,FALSE
+S00573,Luiz Miguel Duarte,15,2,Female,SC624,Rodrigues Escola,Paraná,Curitiba,Private,81.6,2020,0.56,FALSE,FALSE
+S00574,Danilo Freitas,11,11,Female,SC195,Barbosa S.A. Escola,Rio de Janeiro,Niterói,Public,83.9,2019,0.65,TRUE,FALSE
+S00575,Júlia Moura,9,8,Female,SC181,Cardoso Escola,Paraná,Maringá,Public,74.5,2019,0.68,FALSE,FALSE
+S00578,Dr. Samuel Martins,14,5,Female,SC992,Porto Escola,Rio de Janeiro,Petrópolis,Private,72.3,2022,0.26,TRUE,FALSE
+S00579,Enzo Cardoso,6,1,Male,SC771,Cunha Cavalcanti S.A. Escola,São Paulo,São Paulo,Private,96.1,2023,0.6,FALSE,FALSE
+S00580,Davi Luiz Porto,17,5,Male,SC228,Lopes Escola,Paraná,Londrina,Private,94.5,2023,0.97,TRUE,FALSE
+S00584,Bryan Farias,11,10,Female,SC666,Novaes Escola,São Paulo,Santos,Public,82.5,2021,0.12,FALSE,FALSE
+S00585,Ana Beatriz Jesus,9,12,Male,SC580,da Luz Escola,Rio de Janeiro,Rio de Janeiro,Public,76.6,2023,0.34,FALSE,FALSE
+S00587,Cauã Alves,7,3,Male,SC260,das Neves S.A. Escola,São Paulo,Santos,Private,82.5,2021,0.3,TRUE,FALSE
+S00588,João Moura,10,11,Male,SC278,Ferreira S/A Escola,São Paulo,Campinas,Private,71,2018,0.34,TRUE,FALSE
+S00589,Bernardo da Paz,12,5,Female,SC903,Costela Escola,São Paulo,Santos,Public,96.3,2020,0.9,TRUE,FALSE
+S00592,João Miguel Pereira,8,8,Female,SC393,Moraes da Rosa S.A. Escola,Rio de Janeiro,Niterói,Public,81.2,2024,0.42,TRUE,FALSE
+S00593,Guilherme Porto,7,7,Female,SC519,Azevedo Farias e Filhos Escola,Paraná,Londrina,Public,85.5,2023,0.36,TRUE,FALSE
+S00594,Luiz Felipe Oliveira,6,6,Female,SC511,Caldeira Escola,São Paulo,Santos,Public,71.8,2024,0.04,TRUE,FALSE
+S00596,Elisa Viana,12,11,Male,SC657,Nascimento e Filhos Escola,Paraná,Curitiba,Private,83.3,2020,0.89,FALSE,FALSE
+S00597,Dr. Marcelo Rodrigues,13,6,Female,SC842,Santos Escola,Minas Gerais,Belo Horizonte,Public,85.6,2022,0.28,TRUE,FALSE
+S00598,Dr. Gabriel da Mata,17,11,Male,SC123,Lopes - EI Escola,Minas Gerais,Contagem,Private,87.8,2019,0.83,FALSE,FALSE
+S00599,Antônio Freitas,18,6,Female,SC742,Ribeiro - EI Escola,Paraná,Curitiba,Public,92.7,2018,0.45,TRUE,FALSE
+S00600,Sr. Davi Lucca Castro,10,5,Female,SC782,Duarte Fogaça - EI Escola,Bahia,Vit�ria da Conquista,Public,90.2,2023,0.38,TRUE,FALSE
+S00601,Srta. Sophie das Neves,18,6,Female,SC200,Moraes Escola,Paraná,Maringá,Public,82.4,2018,0.06,TRUE,FALSE
+S00602,Davi Duarte,15,9,Female,SC702,Moraes Escola,Rio de Janeiro,Rio de Janeiro,Private,96.2,2022,0.5,FALSE,FALSE
+S00603,Alice Moraes,18,3,Male,SC617,da Mota Sales - EI Escola,Rio de Janeiro,Petrópolis,Private,73.9,2023,0.51,TRUE,FALSE
+S00605,Otávio das Neves,9,6,Female,SC401,Souza - ME Escola,Bahia,Salvador,Private,74.3,2022,0.42,FALSE,FALSE
+S00608,João Lucas Novaes,8,7,Female,SC653,Mendes Ltda. Escola,Paraná,Londrina,Private,83.3,2020,0.65,TRUE,FALSE
+S00609,Sr. Davi Lucca Pinto,13,11,Male,SC759,Lopes Escola,Paraná,Maringá,Private,88.6,2022,0.76,TRUE,FALSE
+S00610,Thales Moraes,15,9,Male,SC119,da Luz Nascimento Ltda. Escola,Paraná,Curitiba,Public,94.9,2024,0.89,FALSE,FALSE
+S00611,Dra. Evelyn Costela,11,10,Male,SC603,Almeida Novaes - EI Escola,Paraná,Maringá,Private,83.1,2021,0.02,FALSE,FALSE
+S00612,Diego Lopes,13,3,Female,SC247,Cavalcanti Sales S.A. Escola,São Paulo,São Paulo,Public,74.6,2021,0.68,TRUE,FALSE
+S00613,Sr. Erick Monteiro,16,1,Female,SC499,da Cunha Escola,Minas Gerais,Belo Horizonte,Public,96.8,2020,0.38,TRUE,FALSE
+S00616,Thiago Almeida,10,9,Male,SC900,Nogueira - ME Escola,Paraná,Curitiba,Public,98.8,2022,0.45,TRUE,FALSE
+S00617,Sra. Bárbara Oliveira,5,1,Female,SC379,Nascimento Escola,Paraná,Londrina,Public,81.4,2020,0.84,TRUE,FALSE
+S00622,Srta. Larissa da Cunha,10,4,Female,SC109,da Cruz Escola,São Paulo,São Paulo,Private,78.4,2023,0.36,TRUE,FALSE
+S00623,Caio Melo,8,8,Female,SC137,da Mota Oliveira e Filhos Escola,Minas Gerais,Contagem,Public,91.2,2019,0.01,FALSE,FALSE
+S00624,Rebeca Viana,7,9,Male,SC775,Gomes Escola,Minas Gerais,Contagem,Private,88.1,2019,0.07,TRUE,FALSE
+S00625,Erick Castro,13,12,Female,SC296,Novaes - EI Escola,Bahia,Feira de Santana,Public,99.1,2023,0.53,FALSE,FALSE
+S00627,Ana Laura Gonçalves,5,5,Female,SC645,da Paz Escola,Paraná,Curitiba,Public,75.8,2018,0.88,TRUE,FALSE
+S00628,Antônio da Rocha,6,4,Male,SC268,Gonçalves Cardoso - ME Escola,Bahia,Vit�ria da Conquista,Private,88.8,2018,0.48,TRUE,FALSE
+S00629,Henrique Novaes,6,8,Male,SC448,Rodrigues Escola,Minas Gerais,Uberlândia,Public,85.6,2019,0.94,FALSE,FALSE
+S00630,Emanuella Carvalho,6,1,Male,SC486,da Mata Escola,Rio de Janeiro,Petrópolis,Public,72,2019,0.06,FALSE,FALSE
+S00632,Leonardo Rezende,12,7,Female,SC914,das Neves Escola,Paraná,Maringá,Public,73,2023,0.94,TRUE,FALSE
+S00633,Miguel Caldeira,6,2,Male,SC709,Castro Cardoso e Filhos Escola,Minas Gerais,Contagem,Public,95.2,2022,0.13,FALSE,FALSE
+S00634,Dr. Vitor Gabriel Dias,7,4,Male,SC916,Nogueira - EI Escola,Rio de Janeiro,Petrópolis,Private,87.5,2022,0.96,FALSE,FALSE
+S00636,Raquel Azevedo,10,4,Male,SC755,Costa Porto S.A. Escola,Paraná,Curitiba,Private,80.2,2023,0.48,FALSE,FALSE
+S00637,Enrico da Mota,14,5,Female,SC436,Barbosa Pereira S/A Escola,Minas Gerais,Contagem,Private,93.7,2018,0.5,TRUE,FALSE
+S00639,Bryan Nogueira,13,2,Male,SC397,Vieira Escola,São Paulo,Campinas,Public,97.4,2020,0.04,TRUE,FALSE
+S00640,Dr. Luiz Henrique Ramos,9,12,Male,SC447,Silveira - ME Escola,Minas Gerais,Belo Horizonte,Public,75.9,2019,0.84,TRUE,TRUE
+S00641,Kaique da Costa,10,4,Female,SC567,Castro Cavalcanti - EI Escola,Bahia,Feira de Santana,Public,89.8,2022,0.98,FALSE,FALSE
+S00642,Yuri Gomes,7,4,Male,SC645,Oliveira Escola,São Paulo,São Paulo,Public,88,2023,0.24,TRUE,FALSE
+S00643,João Pedro Rodrigues,17,3,Female,SC353,Azevedo Escola,Paraná,Curitiba,Private,96.2,2024,0.51,FALSE,FALSE
+S00644,Guilherme Nunes,7,9,Female,SC869,Nunes Azevedo - ME Escola,São Paulo,Campinas,Public,81.2,2022,0.46,FALSE,FALSE
+S00645,Sr. Benjamin Ribeiro,16,8,Female,SC374,Moura Escola,Paraná,Maringá,Private,93.7,2023,0.04,TRUE,FALSE
+S00646,Joaquim Jesus,8,5,Female,SC486,Freitas Escola,Rio de Janeiro,Rio de Janeiro,Private,81.2,2022,0.08,TRUE,FALSE
+S00647,Pietra Castro,14,1,Female,SC624,Cunha Jesus e Filhos Escola,Paraná,Londrina,Public,84,2021,0.37,FALSE,FALSE
+S00648,Stephany Martins,12,4,Female,SC760,Peixoto Escola,Rio de Janeiro,Rio de Janeiro,Public,78.8,2022,0.51,TRUE,FALSE
+S00649,Melissa Carvalho,6,6,Male,SC659,Pires da Rosa - ME Escola,Bahia,Salvador,Public,79.9,2020,0.75,FALSE,FALSE
+S00650,Sra. Sophie Silveira,5,5,Female,SC942,Caldeira Escola,Paraná,Curitiba,Private,98.4,2024,0.58,TRUE,FALSE
+S00652,Juliana Cunha,11,12,Female,SC314,da Luz S.A. Escola,São Paulo,Campinas,Public,70.9,2019,0.58,TRUE,FALSE
+S00653,Benício Farias,10,4,Female,SC535,Ramos S/A Escola,São Paulo,Campinas,Private,93.4,2022,0.3,TRUE,FALSE
+S00656,Maria Vitória Porto,7,4,Male,SC495,Ribeiro Vieira Ltda. Escola,Paraná,Londrina,Public,89.8,2018,0.45,FALSE,FALSE
+S00657,Sr. Francisco Carvalho,11,3,Male,SC232,Araújo Escola,Bahia,Feira de Santana,Private,72.1,2024,0.21,TRUE,FALSE
+S00659,Gabriel Oliveira,14,8,Female,SC573,Alves - ME Escola,Bahia,Vit�ria da Conquista,Private,78.6,2021,0.35,FALSE,FALSE
+S00662,Dr. Fernando da Rosa,11,8,Male,SC358,Jesus Escola,São Paulo,Santos,Private,70.8,2023,0.69,FALSE,FALSE
+S00663,Manuela Novaes,5,1,Female,SC217,Almeida - EI Escola,Rio de Janeiro,Rio de Janeiro,Private,90.1,2021,0.48,TRUE,FALSE
+S00664,Isadora Gomes,7,8,Female,SC961,Cavalcanti Escola,Bahia,Vit�ria da Conquista,Private,88.2,2019,0.29,FALSE,FALSE
+S00665,Ana Clara Mendes,7,8,Female,SC282,Martins Escola,São Paulo,Santos,Private,90.3,2019,0.44,TRUE,FALSE
+S00666,Francisco Jesus,11,12,Female,SC554,da Costa Silveira S.A. Escola,Paraná,Maringá,Public,93.2,2024,0.2,TRUE,FALSE
+S00667,Noah Nunes,5,7,Male,SC114,Cunha Escola,Bahia,Salvador,Public,90.1,2019,0.96,TRUE,FALSE
+S00669,Juliana Nogueira,6,6,Female,SC277,da Mota Ltda. Escola,São Paulo,São Paulo,Public,70.4,2019,0.46,TRUE,FALSE
+S00670,Dra. Clarice Teixeira,5,2,Male,SC520,Moraes Escola,Minas Gerais,Contagem,Private,99.5,2018,0.71,TRUE,FALSE
+S00671,Fernanda da Cunha,15,12,Female,SC794,Gonçalves Castro - ME Escola,São Paulo,Santos,Private,74,2019,0.64,FALSE,FALSE
+S00673,Sr. Vinicius Lima,8,12,Female,SC875,Melo Escola,Paraná,Curitiba,Private,74.1,2021,0.3,TRUE,FALSE
+S00674,Dr. Nathan Gonçalves,16,6,Male,SC384,Costa Escola,São Paulo,São Paulo,Private,71.2,2024,0.98,FALSE,FALSE
+S00675,Ana Beatriz Cardoso,10,4,Male,SC652,da Mota Escola,Bahia,Vit�ria da Conquista,Private,99.7,2024,0.69,TRUE,FALSE
+S00677,Davi Lucas Cunha,14,9,Male,SC341,Mendes Oliveira - EI Escola,Bahia,Salvador,Public,84,2019,0.72,TRUE,FALSE
+S00678,Bianca Lopes,9,10,Female,SC750,Cardoso Rodrigues Ltda. Escola,Paraná,Curitiba,Private,84.4,2020,0.4,TRUE,FALSE
+S00679,Camila Lopes,17,3,Female,SC120,Almeida - ME Escola,Rio de Janeiro,Petrópolis,Private,72.5,2020,0.6,TRUE,FALSE
+S00680,Emanuel da Cunha,12,5,Female,SC390,Rodrigues Carvalho S.A. Escola,Bahia,Feira de Santana,Private,72.2,2019,0.71,TRUE,FALSE
+S00682,Joana Almeida,11,1,Male,SC494,Teixeira S.A. Escola,Minas Gerais,Contagem,Public,92.9,2020,0.77,FALSE,FALSE
+S00684,Srta. Clarice Monteiro,9,10,Female,SC797,Costela Escola,São Paulo,Santos,Public,87.4,2023,0.84,TRUE,FALSE
+S00688,Beatriz Mendes,7,3,Female,SC290,Moraes Escola,Minas Gerais,Contagem,Private,75.5,2018,0.45,TRUE,FALSE
+S00689,Davi Luiz Nunes,17,4,Female,SC992,Dias S.A. Escola,São Paulo,Santos,Public,88.7,2024,0.64,TRUE,FALSE
+S00690,Srta. Clara Aragão,6,6,Male,SC699,Costa Moreira e Filhos Escola,Rio de Janeiro,Rio de Janeiro,Private,92.8,2018,0.06,TRUE,FALSE
+S00691,Vitória Azevedo,13,1,Female,SC717,Fernandes Escola,São Paulo,São Paulo,Public,78,2021,0.47,FALSE,FALSE
+S00692,Mariane Barros,10,4,Female,SC781,Cavalcanti e Filhos Escola,Minas Gerais,Uberlândia,Private,99.3,2024,0.33,TRUE,TRUE
+S00693,Benjamin Correia,5,10,Male,SC989,Pires Escola,Rio de Janeiro,Petrópolis,Public,92.5,2019,0.37,FALSE,FALSE
+S00694,Ana Vit�ria Vieira,5,11,Female,SC994,Ribeiro Escola,Bahia,Salvador,Private,79.8,2021,0.23,FALSE,FALSE
+S00696,Ana Luiza Silveira,7,8,Male,SC408,Cunha Escola,Paraná,Maringá,Public,99.6,2021,0.17,FALSE,FALSE
+S00697,Ana Lívia Silva,8,4,Male,SC871,Gomes S/A Escola,Rio de Janeiro,Petrópolis,Public,73.2,2023,0.03,FALSE,FALSE
+S00699,Dr. Gustavo da Cruz,15,6,Female,SC834,Vieira - ME Escola,Paraná,Maringá,Public,89.6,2024,0.56,FALSE,FALSE
+S00700,Ryan Rocha,9,2,Male,SC191,Duarte Escola,Bahia,Feira de Santana,Public,75.6,2018,0.57,TRUE,FALSE
+S00702,Yago Silva,6,7,Male,SC651,Castro Ltda. Escola,Paraná,Maringá,Public,94.5,2020,0.84,FALSE,FALSE
+S00705,Gabrielly Pereira,16,7,Female,SC934,Castro S/A Escola,São Paulo,São Paulo,Private,99.7,2022,0.39,FALSE,FALSE
+S00707,Mariane Fogaça,12,11,Male,SC691,Moura Ltda. Escola,Paraná,Curitiba,Private,78.7,2019,0.21,TRUE,FALSE
+S00708,Carlos Eduardo Nunes,15,3,Female,SC537,Ramos Escola,São Paulo,Campinas,Public,71.7,2020,0.97,TRUE,FALSE
+S00709,João Pedro Rocha,14,7,Male,SC742,da Cunha Escola,São Paulo,Santos,Private,73.6,2021,0.49,TRUE,FALSE
+S00714,Gabrielly Alves,15,3,Male,SC675,Mendes Silveira - EI Escola,Bahia,Vit�ria da Conquista,Public,72.5,2018,0.51,FALSE,FALSE
+S00715,Dra. Mariane Castro,8,5,Male,SC631,Farias Escola,Bahia,Feira de Santana,Public,86,2019,0.58,FALSE,FALSE
+S00719,Dr. Benjamin Santos,11,3,Female,SC906,Vieira Nascimento - ME Escola,Paraná,Maringá,Public,88.1,2018,0.27,TRUE,FALSE
+S00720,Bruno Ramos,15,2,Female,SC441,Porto Escola,Rio de Janeiro,Rio de Janeiro,Private,93.9,2020,0.01,FALSE,FALSE
+S00721,Luiz Felipe Porto,17,2,Male,SC639,Costa Escola,Bahia,Feira de Santana,Public,94.6,2021,0.1,FALSE,FALSE
+S00722,Sofia Aragão,14,2,Male,SC274,Nunes - ME Escola,Minas Gerais,Contagem,Private,75.4,2024,0.74,FALSE,FALSE
+S00724,Maysa Jesus,16,8,Male,SC549,Ramos Mendes Ltda. Escola,Bahia,Vit�ria da Conquista,Private,85.1,2020,0.95,TRUE,FALSE
+S00725,Enzo Gabriel Ramos,17,6,Male,SC749,Ribeiro Escola,São Paulo,Campinas,Private,98.3,2019,0.58,TRUE,FALSE
+S00728,Manuela Moura,7,2,Female,SC959,Barbosa S.A. Escola,Bahia,Vit�ria da Conquista,Public,71.5,2021,0.38,FALSE,FALSE
+S00729,Beatriz Oliveira,18,9,Male,SC397,Fernandes - EI Escola,Minas Gerais,Contagem,Public,76.4,2023,0.63,FALSE,FALSE
+S00730,Diogo Costa,12,10,Female,SC158,da Rosa Escola,Minas Gerais,Contagem,Public,79.9,2020,0.11,FALSE,FALSE
+S00731,Valentina da Mota,5,2,Female,SC603,Cavalcanti Escola,Bahia,Feira de Santana,Private,97,2021,0.12,FALSE,TRUE
+S00732,Amanda Costa,11,6,Female,SC473,Ramos Escola,Minas Gerais,Belo Horizonte,Private,94.3,2018,0.99,FALSE,FALSE
+S00734,Srta. Maria Clara Pinto,6,7,Female,SC663,Silva Escola,Bahia,Feira de Santana,Private,73.8,2024,0.76,FALSE,FALSE
+S00735,Ryan da Luz,6,1,Male,SC259,Cavalcanti Nogueira e Filhos Escola,Rio de Janeiro,Rio de Janeiro,Public,90.5,2018,0.68,FALSE,FALSE
+S00736,Maria Martins,11,8,Female,SC388,Peixoto Escola,Paraná,Maringá,Public,77.4,2019,0.73,TRUE,FALSE
+S00737,Olivia Farias,15,7,Male,SC585,Novaes Escola,São Paulo,Campinas,Public,91,2022,0.61,TRUE,FALSE
+S00738,Dr. Levi Cunha,8,2,Male,SC510,Oliveira Silva Ltda. Escola,Paraná,Maringá,Public,97.9,2021,0.02,TRUE,FALSE
+S00740,Sra. Nina Monteiro,10,12,Female,SC352,da Luz Santos - EI Escola,Minas Gerais,Uberlândia,Private,71.2,2018,0.66,FALSE,FALSE
+S00741,Dra. Giovanna Correia,11,3,Female,SC603,Rocha Escola,Rio de Janeiro,Niterói,Public,72.9,2018,0.68,TRUE,FALSE
+S00742,Maria Julia Peixoto,8,11,Female,SC315,Pereira Escola,Minas Gerais,Contagem,Private,73.2,2023,0.74,TRUE,TRUE
+S00744,Raul Caldeira,17,9,Female,SC474,Fogaça da Cruz Ltda. Escola,Bahia,Feira de Santana,Private,97.3,2018,0.48,TRUE,FALSE
+S00746,Alícia Moraes,11,10,Female,SC311,Cavalcanti Escola,Paraná,Londrina,Private,76.5,2023,0.01,FALSE,FALSE
+S00747,Nicole das Neves,18,4,Female,SC825,Duarte Escola,Paraná,Londrina,Private,76.7,2022,0.24,TRUE,FALSE
+S00749,Valentina Lopes,11,10,Female,SC432,Alves e Filhos Escola,Paraná,Londrina,Public,70.3,2020,0.22,FALSE,FALSE
+S00751,Catarina da Mota,7,8,Male,SC847,Porto Escola,Minas Gerais,Belo Horizonte,Private,97.1,2018,0.5,FALSE,FALSE
+S00753,Amanda Pereira,12,11,Female,SC202,Ferreira Escola,São Paulo,Campinas,Public,92.5,2018,0.6,FALSE,FALSE
+S00754,Davi Lucca Fernandes,7,4,Male,SC374,Melo - ME Escola,São Paulo,São Paulo,Public,70.4,2018,0.96,TRUE,FALSE
+S00755,Srta. Amanda da Costa,8,3,Female,SC877,Barros Escola,Minas Gerais,Contagem,Public,74.9,2020,0.48,TRUE,FALSE
+S00756,Mariana Jesus,5,1,Male,SC657,Vieira Escola,Minas Gerais,Contagem,Public,95.1,2019,0,TRUE,TRUE
+S00757,Sr. Yuri Lopes,10,11,Female,SC331,da Mata Silveira S/A Escola,Rio de Janeiro,Niterói,Public,90.6,2023,0.82,TRUE,FALSE
+S00758,Bruna Peixoto,9,6,Male,SC730,Carvalho Escola,São Paulo,São Paulo,Public,97.7,2018,0.9,TRUE,FALSE
+S00759,Sr. Enrico Melo,15,7,Male,SC783,Moreira Escola,Paraná,Londrina,Public,78.6,2018,0.27,FALSE,FALSE
+S00760,Enrico Souza,17,1,Male,SC896,Alves Escola,Minas Gerais,Contagem,Public,81.7,2023,0.8,FALSE,FALSE
+S00761,Raul Monteiro,16,5,Male,SC192,Duarte Escola,São Paulo,Santos,Private,93,2020,0.32,FALSE,FALSE
+S00762,Mariana Farias,7,11,Male,SC492,Martins - ME Escola,Rio de Janeiro,Petrópolis,Private,86,2022,0.54,TRUE,FALSE
+S00764,Stella Moura,5,6,Female,SC969,Rodrigues Escola,Rio de Janeiro,Rio de Janeiro,Public,74.2,2021,0.14,FALSE,FALSE
+S00766,Caio da Cunha,5,3,Female,SC244,Campos S.A. Escola,São Paulo,Campinas,Public,87.1,2024,0.42,TRUE,FALSE
+S00768,Luiz Otávio Pinto,5,7,Female,SC796,da Costa S/A Escola,Bahia,Vit�ria da Conquista,Public,91.3,2020,0.92,FALSE,FALSE
+S00769,Raquel Melo,6,9,Female,SC228,Carvalho S/A Escola,Rio de Janeiro,Rio de Janeiro,Private,71.7,2021,0.18,TRUE,FALSE
+S00770,Davi Fernandes,15,11,Female,SC947,Dias Ltda. Escola,Rio de Janeiro,Niterói,Private,81.1,2021,0.19,TRUE,FALSE
+S00771,Joana Porto,5,4,Female,SC266,Pinto Escola,Minas Gerais,Contagem,Private,87.9,2024,0.91,TRUE,FALSE
+S00773,Amanda Cardoso,13,4,Female,SC869,Santos Escola,Minas Gerais,Uberlândia,Private,73.9,2023,0.1,FALSE,FALSE
+S00774,Gustavo Jesus,5,10,Female,SC588,Gomes - ME Escola,Paraná,Curitiba,Public,78.7,2019,0.68,TRUE,FALSE
+S00776,Clarice Cunha,10,10,Female,SC140,Viana Escola,Bahia,Feira de Santana,Private,81.6,2019,1,TRUE,FALSE
+S00777,Pedro Miguel da Conceição,6,1,Male,SC884,Moura Escola,Paraná,Maringá,Private,99.1,2024,0.9,FALSE,FALSE
+S00778,Marcos Vinicius da Conceição,7,2,Female,SC690,Barbosa S/A Escola,Minas Gerais,Belo Horizonte,Private,75.4,2024,0.46,FALSE,FALSE
+S00779,Maria Vitória Novaes,6,10,Female,SC140,Lima S.A. Escola,Rio de Janeiro,Petrópolis,Public,82.3,2022,0.92,TRUE,FALSE
+S00781,Diego das Neves,7,2,Female,SC484,da Mota Escola,Bahia,Vit�ria da Conquista,Public,72.2,2021,0.87,TRUE,FALSE
+S00782,Diego Barros,6,2,Male,SC849,Vieira Escola,Rio de Janeiro,Petrópolis,Private,81.9,2021,0.2,FALSE,FALSE
+S00784,Thiago Rodrigues,5,6,Female,SC584,Moraes Escola,São Paulo,Santos,Private,70.7,2024,0.68,FALSE,FALSE
+S00785,Raul Duarte,6,5,Female,SC183,Gomes - EI Escola,Bahia,Salvador,Public,96.1,2022,0.21,FALSE,FALSE
+S00786,Diogo Lopes,10,5,Male,SC303,Porto Escola,São Paulo,São Paulo,Private,84.3,2023,0.78,FALSE,FALSE
+S00787,Dr. Ryan da Costa,13,10,Male,SC179,Lopes Escola,Paraná,Londrina,Public,74.3,2023,0.99,FALSE,TRUE
+S00788,Bárbara Almeida,18,6,Male,SC911,Farias Escola,Rio de Janeiro,Rio de Janeiro,Private,85.6,2018,0.99,TRUE,FALSE
+S00789,Theo Pinto,8,12,Male,SC530,Moreira Escola,Paraná,Curitiba,Public,88,2019,0.35,TRUE,FALSE
+S00790,Renan Melo,18,6,Male,SC409,Rezende Escola,Paraná,Curitiba,Private,96,2023,0.5,FALSE,FALSE
+S00791,Isabella Lima,13,6,Male,SC280,Vieira Escola,Minas Gerais,Uberlândia,Private,86.6,2019,0.54,FALSE,FALSE
+S00792,Davi Cardoso,16,10,Male,SC189,Cunha Escola,Rio de Janeiro,Petrópolis,Private,89.5,2022,0.93,TRUE,FALSE
+S00794,Marina Araújo,6,6,Female,SC522,da Rosa Escola,São Paulo,São Paulo,Private,93.5,2021,0.01,FALSE,FALSE
+S00795,Marcos Vinicius Ferreira,15,5,Female,SC958,da Costa Escola,Paraná,Londrina,Private,90.2,2018,0.9,FALSE,TRUE
+S00797,João Vitor Moreira,7,11,Female,SC845,Duarte - EI Escola,Rio de Janeiro,Rio de Janeiro,Private,85.5,2021,0.23,TRUE,FALSE
+S00798,Bárbara Silva,18,9,Male,SC430,Porto da Cruz S.A. Escola,Paraná,Londrina,Private,83.1,2023,0.77,TRUE,TRUE
+S00801,Augusto da Rocha,7,5,Female,SC284,Nogueira Escola,Paraná,Curitiba,Public,80.8,2024,0.21,TRUE,FALSE
+S00802,Laís Barbosa,12,11,Male,SC315,Martins S/A Escola,São Paulo,Campinas,Public,79.4,2021,0.81,TRUE,FALSE
+S00803,Dra. Maysa Freitas,6,6,Female,SC595,Viana Escola,Bahia,Vit�ria da Conquista,Public,70.2,2022,0.74,TRUE,FALSE
+S00804,Camila Nascimento,13,9,Male,SC321,Moreira Escola,São Paulo,Santos,Public,76.5,2020,0.14,TRUE,FALSE
+S00805,Milena Cardoso,12,4,Male,SC456,Nascimento Escola,Bahia,Feira de Santana,Private,84,2024,0.5,FALSE,FALSE
+S00806,Luiz Henrique Nunes,15,12,Female,SC502,Monteiro Escola,Minas Gerais,Belo Horizonte,Public,87.6,2019,0.79,FALSE,FALSE
+S00808,Bárbara Dias,14,7,Female,SC718,Silva e Filhos Escola,São Paulo,Santos,Private,99,2020,0.4,TRUE,FALSE
+S00809,Enrico da Costa,10,4,Male,SC320,da Cruz Moreira - EI Escola,Minas Gerais,Uberlândia,Public,93.4,2018,0.01,TRUE,FALSE
+S00810,Srta. Mirella Dias,8,9,Male,SC494,Melo Escola,Bahia,Feira de Santana,Private,76.5,2022,0.28,TRUE,FALSE
+S00811,Srta. Luana Rocha,10,6,Male,SC301,da Rocha Escola,Rio de Janeiro,Petrópolis,Private,71.4,2020,0.42,TRUE,FALSE
+S00812,Bruna Oliveira,8,10,Male,SC391,Farias S/A Escola,Paraná,Londrina,Private,87.3,2018,0.91,FALSE,FALSE
+S00813,Murilo da Cruz,10,11,Male,SC171,Silva Barbosa - EI Escola,Rio de Janeiro,Rio de Janeiro,Public,82.5,2020,0.27,FALSE,FALSE
+S00814,Benício da Cunha,14,1,Female,SC405,da Mata Escola,Paraná,Londrina,Private,95.5,2018,0.84,TRUE,TRUE
+S00816,Levi Ribeiro,6,1,Female,SC176,da Cunha Escola,São Paulo,Campinas,Public,93.7,2021,0.27,TRUE,FALSE
+S00817,Juan da Conceição,7,6,Male,SC871,Silva Ferreira S.A. Escola,Paraná,Londrina,Public,96.9,2023,0.45,TRUE,FALSE
+S00818,Dra. Heloísa Ramos,15,8,Female,SC429,Dias - ME Escola,Bahia,Vit�ria da Conquista,Private,72.8,2024,0.3,TRUE,FALSE
+S00819,Ana Cavalcanti,16,2,Male,SC606,da Paz - EI Escola,Bahia,Vit�ria da Conquista,Public,76.5,2024,0.39,FALSE,FALSE
+S00821,Maria Vitória Azevedo,17,7,Male,SC170,Carvalho - ME Escola,Rio de Janeiro,Petrópolis,Public,79.2,2024,0.58,TRUE,FALSE
+S00822,Ana Viana,8,1,Female,SC291,Pinto - EI Escola,São Paulo,Santos,Public,85.9,2020,0.27,TRUE,FALSE
+S00826,Gustavo Henrique Viana,7,4,Female,SC752,Fernandes Escola,Minas Gerais,Uberlândia,Public,92,2018,0.19,FALSE,FALSE
+S00827,Alexandre Almeida,15,2,Male,SC291,Silveira S/A Escola,Bahia,Salvador,Private,98.9,2023,0.47,FALSE,TRUE
+S00830,Lara Moreira,15,8,Female,SC473,Novaes Escola,Minas Gerais,Contagem,Private,79,2020,0.89,FALSE,FALSE
+S00831,Juan Vieira,7,7,Male,SC775,da Luz Escola,Paraná,Maringá,Public,70.9,2022,0.74,FALSE,FALSE
+S00832,Dr. Fernando Lima,15,2,Female,SC998,Novaes Escola,São Paulo,São Paulo,Private,97.4,2022,0.17,FALSE,FALSE
+S00833,Srta. Mirella Costa,9,5,Male,SC142,Porto da Cruz S/A Escola,Rio de Janeiro,Petrópolis,Private,95,2018,0.43,FALSE,FALSE
+S00835,Pietra Barros,5,8,Male,SC322,Nogueira Almeida S/A Escola,Minas Gerais,Belo Horizonte,Private,71.6,2020,0.01,FALSE,FALSE
+S00836,Lucas Pinto,7,6,Female,SC904,Campos Ltda. Escola,São Paulo,São Paulo,Private,93.1,2019,0.95,FALSE,FALSE
+S00837,João Lucas Cardoso,9,4,Male,SC584,Nogueira - ME Escola,Bahia,Feira de Santana,Public,90.4,2021,0.42,TRUE,FALSE
+S00838,Milena Silveira,7,10,Female,SC795,Caldeira Escola,Minas Gerais,Contagem,Private,74.2,2024,0.2,TRUE,FALSE
+S00840,Rafael Silveira,12,6,Female,SC577,da Mota Escola,Minas Gerais,Contagem,Private,70.8,2022,0.03,FALSE,FALSE
+S00842,Pietro Almeida,18,1,Male,SC156,Carvalho Freitas - ME Escola,São Paulo,Campinas,Private,73.2,2022,0.1,FALSE,FALSE
+S00844,Esther Monteiro,16,1,Female,SC738,Freitas Escola,Bahia,Feira de Santana,Private,70,2022,0.88,TRUE,FALSE
+S00845,Otávio da Mota,18,9,Female,SC500,Nunes Escola,São Paulo,Campinas,Public,82.1,2019,0.82,FALSE,FALSE
+S00847,Ana Julia Santos,14,8,Female,SC783,Mendes Escola,Minas Gerais,Uberlândia,Public,94,2021,0.42,FALSE,FALSE
+S00848,Luiz Gustavo Fernandes,14,7,Male,SC694,Pires Escola,Minas Gerais,Uberlândia,Public,96.8,2022,0.44,FALSE,FALSE
+S00849,Maria Fernanda Rocha,9,1,Male,SC466,Mendes Ramos e Filhos Escola,Rio de Janeiro,Petrópolis,Private,76.3,2023,0.53,TRUE,FALSE
+S00850,Maria Sophia Araújo,12,12,Male,SC385,Correia Escola,Bahia,Feira de Santana,Private,97.7,2018,0.92,FALSE,FALSE
+S00852,Sr. Samuel Ferreira,5,12,Male,SC337,Gomes Carvalho - ME Escola,Rio de Janeiro,Rio de Janeiro,Public,98,2021,0.32,TRUE,FALSE
+S00853,Sofia Mendes,16,7,Female,SC165,Vieira S.A. Escola,Bahia,Salvador,Public,71.1,2023,0.07,FALSE,FALSE
+S00854,Gabrielly Moraes,6,12,Female,SC486,Fogaça da Mata e Filhos Escola,São Paulo,São Paulo,Private,86.7,2019,0.25,FALSE,FALSE
+S00855,Caroline Sales,11,9,Male,SC188,Duarte Duarte Ltda. Escola,Bahia,Salvador,Public,90.1,2019,0.03,TRUE,FALSE
+S00857,Bruno Sales,17,2,Female,SC537,Viana S/A Escola,Minas Gerais,Contagem,Public,87.1,2019,0.78,FALSE,FALSE
+S00858,Isadora Lopes,14,9,Female,SC123,Freitas Escola,Rio de Janeiro,Rio de Janeiro,Public,97.7,2020,0.39,FALSE,FALSE
+S00859,Carolina Silva,13,10,Male,SC973,Novaes Escola,Bahia,Feira de Santana,Public,79.4,2022,0.06,TRUE,FALSE
+S00860,Vitor Gabriel Costela,5,6,Female,SC367,Souza - ME Escola,Minas Gerais,Contagem,Public,71.8,2019,0.55,FALSE,FALSE
+S00862,Stephany da Luz,16,1,Male,SC136,Costa Escola,Rio de Janeiro,Rio de Janeiro,Private,80.5,2021,0.3,TRUE,TRUE
+S00863,Dra. Laís Lopes,13,10,Female,SC798,Alves e Filhos Escola,São Paulo,São Paulo,Public,84.5,2021,0.77,TRUE,FALSE
+S00864,João Miguel Castro,6,8,Male,SC730,Moreira Escola,Rio de Janeiro,Petrópolis,Public,75.8,2021,0.92,TRUE,FALSE
+S00866,Lucas Mendes,5,6,Female,SC716,da Mata Escola,Rio de Janeiro,Rio de Janeiro,Private,78.8,2022,0.4,TRUE,FALSE
+S00868,Dr. Guilherme Porto,13,5,Female,SC814,Costela Dias S/A Escola,Minas Gerais,Contagem,Public,80.4,2021,0.71,FALSE,FALSE
+S00870,Danilo da Costa,12,1,Female,SC384,Alves Escola,Rio de Janeiro,Rio de Janeiro,Public,99,2018,0.28,FALSE,FALSE
+S00871,Kaique Sales,5,4,Male,SC488,Silveira Teixeira e Filhos Escola,Rio de Janeiro,Niterói,Private,71.6,2020,0.03,FALSE,FALSE
+S00872,Dr. Heitor Fernandes,17,10,Male,SC875,Novaes S/A Escola,Paraná,Londrina,Private,88.6,2024,0.43,TRUE,FALSE
+S00873,Srta. Ana Carolina da Rosa,18,9,Female,SC534,Ribeiro Escola,Paraná,Londrina,Private,85.6,2019,0.96,FALSE,FALSE
+S00874,Ana Luiza Porto,9,11,Female,SC187,Ferreira Escola,Bahia,Salvador,Public,78.9,2022,0.39,FALSE,FALSE
+S00879,Pedro Miguel Mendes,10,2,Male,SC619,Nunes Escola,São Paulo,Santos,Public,77.1,2020,0.57,FALSE,FALSE
+S00882,Leonardo Moreira,15,12,Male,SC490,Oliveira Escola,Rio de Janeiro,Petrópolis,Public,98.7,2019,0.57,FALSE,FALSE
+S00884,Dra. Ana Júlia da Rocha,10,12,Male,SC809,Novaes Cavalcanti S/A Escola,Minas Gerais,Belo Horizonte,Private,96.4,2020,0.08,TRUE,FALSE
+S00885,Lucas Vieira,12,7,Male,SC683,Araújo - ME Escola,Rio de Janeiro,Petrópolis,Public,97.8,2019,0.78,FALSE,FALSE
+S00886,Sophie Cardoso,17,5,Female,SC421,Ferreira - EI Escola,Bahia,Vit�ria da Conquista,Private,85.2,2019,0.58,TRUE,FALSE
+S00887,Bruno Nogueira,6,7,Female,SC883,Dias Escola,Rio de Janeiro,Rio de Janeiro,Public,92.3,2019,0.87,FALSE,TRUE
+S00888,Vicente Gomes,13,9,Female,SC532,Costela Escola,Bahia,Salvador,Public,86.7,2023,0.29,FALSE,FALSE
+S00889,Luiz Miguel da Cunha,16,1,Male,SC856,Azevedo e Filhos Escola,Minas Gerais,Contagem,Public,97.3,2023,0.45,FALSE,FALSE
+S00892,Maysa Teixeira,9,6,Female,SC426,Monteiro Escola,Paraná,Maringá,Private,71.3,2023,0.88,TRUE,FALSE
+S00893,Maria Cecília Dias,6,6,Female,SC269,Pires Ltda. Escola,Minas Gerais,Contagem,Private,83.2,2019,0.29,FALSE,FALSE
+S00894,Dr. Francisco da Costa,7,2,Male,SC665,Alves Escola,São Paulo,São Paulo,Private,70.8,2018,0.96,TRUE,TRUE
+S00895,Luiz Henrique Cunha,9,10,Female,SC849,Gomes Escola,São Paulo,Campinas,Public,83.6,2018,0.72,TRUE,FALSE
+S00896,Maria Alice Alves,6,3,Female,SC849,Rocha Escola,Rio de Janeiro,Niterói,Private,94.1,2023,0.79,TRUE,FALSE
+S00898,Marcos Vinicius Moura,15,11,Male,SC351,Oliveira Pinto - ME Escola,Paraná,Maringá,Public,98.3,2023,0.2,FALSE,FALSE
+S00899,Davi Lucca Nogueira,9,3,Male,SC750,das Neves Escola,Bahia,Vit�ria da Conquista,Private,95.7,2023,0.21,FALSE,FALSE
+S00900,Bruno Pereira,16,3,Male,SC528,Silveira Fogaça Ltda. Escola,Paraná,Maringá,Public,88.9,2019,0.64,FALSE,FALSE
+S00901,Sofia Teixeira,9,11,Female,SC601,Oliveira Escola,Bahia,Feira de Santana,Public,80.7,2021,0.3,TRUE,FALSE
+S00903,Mariane Porto,15,4,Male,SC397,Rodrigues Escola,Rio de Janeiro,Niterói,Private,95.5,2021,0.06,FALSE,FALSE
+S00904,Igor Aragão,17,8,Female,SC508,Barros Teixeira S/A Escola,Minas Gerais,Uberlândia,Private,84.6,2019,0.34,TRUE,FALSE
+S00906,Sra. Sabrina Alves,10,9,Male,SC770,Carvalho da Costa S/A Escola,São Paulo,Santos,Private,86.1,2019,0.84,FALSE,FALSE
+S00907,Clara Mendes,10,6,Female,SC320,Lima Escola,Bahia,Feira de Santana,Public,70.4,2024,0.02,TRUE,FALSE
+S00908,Isadora Rezende,9,5,Male,SC335,Melo S/A Escola,Rio de Janeiro,Rio de Janeiro,Public,71,2023,0.12,FALSE,FALSE
+S00909,Benício Fogaça,18,2,Male,SC175,Cardoso Escola,Bahia,Vit�ria da Conquista,Private,92,2018,0.01,TRUE,FALSE
+S00910,Lorena da Mata,18,10,Female,SC903,Fernandes Nascimento S/A Escola,Paraná,Londrina,Public,70.7,2020,0.46,TRUE,FALSE
+S00911,Vitor Farias,9,7,Male,SC327,Pires Escola,Paraná,Londrina,Private,84.5,2023,0.53,TRUE,FALSE
+S00914,Sr. Pedro Lucas Barbosa,5,8,Female,SC521,Fernandes - ME Escola,Paraná,Londrina,Public,74.5,2020,0.69,FALSE,FALSE
+S00915,Fernanda da Paz,17,9,Female,SC658,Barros Escola,Minas Gerais,Contagem,Public,77.1,2021,0.71,TRUE,FALSE
+S00916,Clara Correia,11,3,Male,SC265,Pinto Martins S/A Escola,Rio de Janeiro,Petrópolis,Public,75.9,2024,0.97,TRUE,FALSE
+S00920,João Gabriel da Costa,13,8,Female,SC196,Costela - ME Escola,Bahia,Salvador,Public,74.7,2020,0.64,TRUE,FALSE
+S00922,Ryan Nascimento,9,3,Female,SC677,Cunha Escola,Bahia,Salvador,Public,87.6,2024,0.38,FALSE,FALSE
+S00923,Augusto Rodrigues,8,3,Male,SC902,Gonçalves Escola,Paraná,Maringá,Private,97.9,2022,0.15,TRUE,FALSE
+S00926,Evelyn Ferreira,12,12,Female,SC801,Ramos Escola,Rio de Janeiro,Petrópolis,Private,89.6,2019,0.03,FALSE,FALSE
+S00928,Pedro Henrique Moreira,5,10,Female,SC436,Martins Campos e Filhos Escola,Minas Gerais,Contagem,Public,77.6,2018,0.61,TRUE,FALSE
+S00929,Joana da Mota,16,12,Female,SC380,Vieira Escola,Rio de Janeiro,Niterói,Public,94.7,2024,0.72,FALSE,FALSE
+S00931,Giovanna Correia,11,2,Male,SC554,Silveira e Filhos Escola,Bahia,Salvador,Public,72.9,2022,0.28,TRUE,FALSE
+S00933,Caroline Castro,6,3,Female,SC145,Nogueira e Filhos Escola,Paraná,Curitiba,Private,85.2,2019,0.64,TRUE,FALSE
+S00935,Raquel Cardoso,17,3,Male,SC322,da Rocha e Filhos Escola,Bahia,Feira de Santana,Public,96.3,2019,0.31,TRUE,FALSE
+S00936,Ana Júlia Rezende,11,12,Female,SC282,Moreira - EI Escola,Bahia,Feira de Santana,Public,82.4,2024,0.19,TRUE,FALSE
+S00937,Sra. Isadora Caldeira,9,2,Female,SC463,Souza Escola,Minas Gerais,Uberlândia,Private,89.3,2021,0.83,TRUE,TRUE
+S00938,Thomas Cardoso,13,10,Male,SC819,Cardoso Escola,Paraná,Londrina,Public,90.5,2020,0.21,FALSE,FALSE
+S00939,Luiz Henrique Castro,12,5,Male,SC218,Dias - EI Escola,Bahia,Feira de Santana,Public,84.3,2021,0.59,FALSE,FALSE
+S00941,Vitor Moraes,12,9,Male,SC870,Pereira Escola,Minas Gerais,Uberlândia,Public,83.7,2022,0.69,FALSE,FALSE
+S00942,Davi Luiz da Mata,14,6,Female,SC794,Santos Escola,Bahia,Feira de Santana,Private,97.9,2019,0.76,TRUE,FALSE
+S00943,Sr. Luiz Otávio Pires,14,1,Male,SC624,Lopes Escola,Minas Gerais,Contagem,Private,87.9,2023,0.94,TRUE,FALSE
+S00944,Giovanna Moura,15,6,Male,SC192,Pinto Escola,Paraná,Curitiba,Public,94,2021,0.4,FALSE,TRUE
+S00945,Sra. Maria Duarte,9,5,Male,SC289,Nascimento Vieira e Filhos Escola,Bahia,Salvador,Public,72.7,2019,0.15,FALSE,TRUE
+S00947,Thiago Azevedo,10,3,Female,SC891,Aragão Escola,São Paulo,Campinas,Public,90.2,2024,0.42,FALSE,FALSE
+S00948,Beatriz Jesus,8,10,Male,SC886,Jesus S.A. Escola,Minas Gerais,Uberlândia,Public,85,2018,0.61,FALSE,FALSE
+S00949,Ian Aragão,8,1,Male,SC409,Vieira Escola,Bahia,Salvador,Private,89.6,2021,0.15,FALSE,FALSE
+S00950,Maria Eduarda da Costa,11,3,Male,SC507,Azevedo - ME Escola,Rio de Janeiro,Rio de Janeiro,Private,83.9,2018,0.35,TRUE,FALSE
+S00953,Thomas Cardoso,7,1,Female,SC824,Rocha Escola,Paraná,Londrina,Public,94.4,2023,0.87,FALSE,TRUE
+S00954,Luigi Castro,18,8,Female,SC475,Azevedo Escola,Minas Gerais,Belo Horizonte,Public,81.1,2021,0.34,FALSE,FALSE
+S00955,Dra. Isis Cardoso,7,5,Female,SC527,Melo Ltda. Escola,São Paulo,Santos,Private,89.1,2022,0.11,TRUE,FALSE
+S00956,Kamilly Costa,6,9,Male,SC229,Alves Nascimento S/A Escola,Rio de Janeiro,Rio de Janeiro,Public,82.9,2020,0.35,FALSE,FALSE
+S00957,Luiz Miguel Barbosa,5,2,Female,SC481,Viana Escola,Bahia,Vit�ria da Conquista,Private,91.7,2024,0.88,FALSE,FALSE
+S00958,Brenda Martins,11,7,Male,SC288,da Costa Barros e Filhos Escola,São Paulo,Campinas,Private,89.6,2018,0.84,FALSE,FALSE
+S00961,Maria Julia Barros,9,5,Female,SC713,Ferreira Escola,Rio de Janeiro,Petrópolis,Public,72.9,2019,0.02,FALSE,FALSE
+S00963,Lucca da Paz,18,12,Female,SC315,Novaes Escola,Rio de Janeiro,Rio de Janeiro,Private,81.7,2021,0.03,TRUE,FALSE
+S00965,Giovanna Carvalho,17,1,Female,SC669,Oliveira - ME Escola,Paraná,Londrina,Private,81.3,2022,0.13,TRUE,FALSE
+S00966,Dr. Diogo Martins,14,5,Male,SC985,Araújo Escola,Bahia,Salvador,Public,92,2021,0.55,FALSE,FALSE
+S00968,Amanda Dias,9,8,Male,SC994,Moura da Costa e Filhos Escola,Rio de Janeiro,Niterói,Private,86,2020,0.76,TRUE,FALSE
+S00969,Carlos Eduardo Barros,11,7,Male,SC751,da Conceição Gomes S/A Escola,São Paulo,Campinas,Private,88.3,2022,1,FALSE,FALSE
+S00971,Sr. Vicente Teixeira,10,12,Male,SC279,da Rocha Viana - EI Escola,Bahia,Salvador,Private,76,2019,0.29,TRUE,FALSE
+S00972,Marcos Vinicius Rocha,15,10,Female,SC347,Aragão Nascimento - EI Escola,Rio de Janeiro,Niterói,Public,85,2018,0.8,FALSE,FALSE
+S00973,Marcela Barbosa,16,2,Male,SC866,da Cunha Escola,Bahia,Salvador,Private,96,2021,0.86,TRUE,FALSE
+S00976,Rafael Moreira,7,4,Female,SC315,Aragão Ltda. Escola,Minas Gerais,Uberlândia,Private,90.8,2021,0.9,FALSE,FALSE
+S00977,Joana Dias,16,8,Female,SC906,Silva Escola,Minas Gerais,Uberlândia,Private,78.3,2018,0.76,TRUE,FALSE
+S00979,Laís Aragão,7,10,Female,SC979,Farias - EI Escola,Bahia,Vit�ria da Conquista,Public,70.8,2019,0.58,TRUE,FALSE
+S00980,Isaac Rodrigues,12,10,Male,SC452,da Cruz Escola,Minas Gerais,Uberlândia,Private,85,2022,0.37,FALSE,FALSE
+S00981,João Felipe Moraes,12,7,Male,SC784,Jesus Escola,Paraná,Londrina,Public,79.3,2019,0.15,TRUE,FALSE
+S00982,Luiz Fernando Freitas,14,11,Male,SC960,Fernandes - ME Escola,Minas Gerais,Uberlândia,Private,93.6,2019,0.74,FALSE,FALSE
+S00983,Matheus Freitas,10,9,Male,SC377,da Costa Mendes - ME Escola,Rio de Janeiro,Petrópolis,Public,92.2,2024,0.08,TRUE,FALSE
+S00984,Beatriz Carvalho,9,12,Male,SC806,Silveira Escola,Paraná,Curitiba,Public,76.9,2023,0.46,TRUE,FALSE
+S00985,Mariana Dias,6,12,Male,SC850,Duarte Escola,Minas Gerais,Contagem,Private,97.1,2022,0.3,TRUE,FALSE
+S00987,Maria Cecília Costela,14,8,Female,SC682,Cunha Viana e Filhos Escola,São Paulo,Santos,Public,97.1,2023,0.89,TRUE,FALSE
+S00990,Diego Lopes,7,3,Male,SC878,Araújo Lopes - ME Escola,Paraná,Londrina,Private,97.8,2021,0.34,TRUE,FALSE
+S00991,Fernanda Pires,9,9,Female,SC427,da Costa Escola,São Paulo,São Paulo,Public,90.5,2022,0.21,TRUE,FALSE
+S00993,Mariana Dias,12,5,Female,SC248,Dias Araújo Ltda. Escola,Minas Gerais,Belo Horizonte,Private,94.9,2020,0.45,FALSE,FALSE
+S00994,Ryan Rocha,5,7,Female,SC761,Santos Ribeiro e Filhos Escola,Rio de Janeiro,Rio de Janeiro,Private,93,2018,0.82,TRUE,FALSE
+S00995,Isadora da Mata,5,6,Female,SC909,Rodrigues Escola,Minas Gerais,Uberlândia,Private,92.2,2024,0.21,FALSE,FALSE
+S00997,Gabriel Oliveira,14,10,Female,SC160,da Paz da Rocha S/A Escola,Rio de Janeiro,Rio de Janeiro,Private,78.3,2020,0.44,FALSE,FALSE
+S00998,Leonardo Rodrigues,10,12,Female,SC944,Ramos Escola,Bahia,Vit�ria da Conquista,Public,79,2019,0.56,FALSE,FALSE
+S00999,Kevin Nunes,13,9,Female,SC806,Nascimento e Filhos Escola,Paraná,Maringá,Private,72,2024,0.7,FALSE,FALSE
+S01000,Dr. Paulo Teixeira,7,6,Female,SC333,Silveira S/A Escola,Minas Gerais,Uberlândia,Public,90.3,2023,0.26,TRUE,FALSE
