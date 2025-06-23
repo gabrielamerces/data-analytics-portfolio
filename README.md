@@ -9,14 +9,14 @@ Welcome! I'm a data analyst with a knack for transforming raw data into actionab
 
 ## Projects Overview
 
-### 1. 🏃‍♀️ Bellabeat Case Study (R, Kaggle)  
+### 1.  Bellabeat Case Study (R, Kaggle)  
 **Goal:** Analyze smart device user behavior to uncover activity and sleep trends that could inform Bellabeat's product strategy.  
 **Tools:** R (`dplyr`, `ggplot2`), Kaggle Notebooks  
 **Key Insights:**  
 - Most users sleep 6–7 hours per night  
 - Strong correlation between steps and calories burned  
 - Suggestion: Introduce weekday activity reminders to boost engagement  
-**📎 Notebook:** [View on Kaggle](https://www.kaggle.com/code/gabriielaml/bellabeat-case-study-user-activity-insights)
+** Notebook:** [View on Kaggle](https://www.kaggle.com/code/gabriielaml/bellabeat-case-study-user-activity-insights)
 
 ---
 
@@ -27,7 +27,7 @@ Welcome! I'm a data analyst with a knack for transforming raw data into actionab
 - Clear seasonal changes in purchase behavior  
 - High return rates in specific product categories  
 - UK dominates transaction volume—ideal for targeted marketing  
-**📎 Notebook:** [View on Kaggle](https://www.kaggle.com/code/gabriielaml/online-retail-analytics)
+** Notebook:** [View on Kaggle](https://www.kaggle.com/code/gabriielaml/online-retail-analytics)
 
 ---
 
@@ -38,7 +38,7 @@ Welcome! I'm a data analyst with a knack for transforming raw data into actionab
 - West region leads in sales volume but lags in profit margins  
 - Standard Class shipping accounts for most orders  
 - Tech category delivers highest profitability  
-**📎 Notebook:** [View on Kaggle](https://www.kaggle.com/code/gabriielaml/superstore-sql-sales-analysis-portfolio-project)
+** Notebook:** [View on Kaggle](https://www.kaggle.com/code/gabriielaml/superstore-sql-sales-analysis-portfolio-project)
 
 ---
 
@@ -62,6 +62,29 @@ Welcome! I'm a data analyst with a knack for transforming raw data into actionab
 - Included sensitivity analysis on discount rate and growth assumptions  
 **📎 Notebook:** [View on Kaggle](https://www.kaggle.com/code/gabriielaml/tesla-financial-analysis)
 
+  ---
+
+### 6. Employee Insights Dashboard (Power BI & Excel)
+
+**Goal:** Build an HR analytics dashboard to explore employee distribution, salaries, departments, and gender trends.
+
+**Tools used:** Power BI Desktop, Microsoft Excel
+
+**Key findings:**
+- Sales and Operations departments have the highest number of employees
+- São Paulo is the most common work location
+- Marketing leads in terms of average salary per employee
+- Gender balance varies significantly between departments
+- Most employees were hired between 2018 and 2022
+
+**Files:**
+- [funcionarios2.pbix](./PowerBI_Funcionarios/funcionarios2.pbix)
+- [Funcionarios_.xlsx](./PowerBI_Funcionarios/Funcionarios_.xlsx)
+
+**Dashboard preview:**  
+![Dashboard Screenshot](./PowerBI_Funcionarios/dashboard_funcionarios.png)
+
+
 ---
 
 ## Technical Skills
@@ -73,7 +96,7 @@ Welcome! I'm a data analyst with a knack for transforming raw data into actionab
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 I'm open to roles in data analytics, business intelligence, or financial insights. Reach out anytime:
 
